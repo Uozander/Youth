@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Group/Youth/Youth_Puzzles/Content/Terrarium.umap",
+				"D:/Group/Youth/Youth_Puzzles/Content/Light.uasset",
+				"D:/Group/Youth/Youth_Puzzles/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Group/Youth/Youth_Puzzles/Content/Sticky/BP_Grab_Object.uasset",
+				"D:/Group/Youth/Youth_Puzzles/Content/Shifting_Floors_Puzzle/Shift_Floor.uasset",
 				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Characters/Player/Animations/FirstPerson_AnimBP1.uasset",
 				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Characters/Player/Animations/FirstPerson_AnimBP1WIP.uasset",
