@@ -5,6 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Battery_Chase/Battery.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/speakspell_piece.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Battery_Chase/BP_Battery.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Battery_Chase/BP_Elevator.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Hanger_Puzzle/Hanger_Creature.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Shifting_Floors_Puzzle/Shift_Floor.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Shifting_Floors_Puzzle/Shift_Platform.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Shifting_Floors_Puzzle/Ring.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Sticky/BP_Energizer_Projectile1.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/UI/Base_UI.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Sticky/BP_Sticky_Object.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Energizer_trans2.uasset",
 				"D:/Group/Youth/Youth_Puzzles/Content/Battery_Chase/Battery.uasset",
 				"D:/Group/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap"
 			]
