@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Group/Youth/Youth_Puzzles/Content/Battery_Chase/Battery.uasset",
+				"D:/Group/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap",
+				"D:/Group/Youth/Youth_Puzzles/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Group/Youth/Youth_Puzzles/Content/EnergizerDoors_Puzzle/BP_Energizer_Projectile1.uasset",
+				"D:/Group/Youth/Youth_Puzzles/Content/EnergizerDoors_Puzzle/MAT_Energizer.uasset",
+				"D:/Group/Youth/Youth_Puzzles/Content/EnergizerDoors_Puzzle/Energizer.uasset",
+				"D:/Group/Youth/Youth_Puzzles/Content/LevelPrototyping/Materials/MI_Solid_Blue_Trans.uasset",
+				"D:/Group/Youth/Youth_Puzzles/Content/EnergizerDoors_Puzzle/Ring.uasset",
+				"D:/Group/Youth/Youth_Puzzles/Content/EnergizerDoors_Puzzle/whitering.uasset",
+				"D:/Group/Youth/Youth_Puzzles/Content/Mechanics_TEST.umap",
+				"D:/Group/Youth/Youth_Puzzles/Content/Sticky/BP_Energizer_Projectile1.uasset",
+				"D:/Group/Youth/Youth_Puzzles/Content/LevelPrototyping/Materials/MAT_Energizer.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Battery_Chase/Battery.uasset",
@@ -18,9 +30,7 @@
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Sticky/BP_Energizer_Projectile1.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/UI/Base_UI.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Sticky/BP_Sticky_Object.uasset",
-				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Energizer_trans2.uasset",
-				"D:/Group/Youth/Youth_Puzzles/Content/Battery_Chase/Battery.uasset",
-				"D:/Group/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap"
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Energizer_trans2.uasset"
 			]
 		}
 	]
