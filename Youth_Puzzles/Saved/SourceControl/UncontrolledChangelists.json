@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Characters/EnergyBug/bug.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Characters/EnergyBug/bug_PhysicsAsset.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Characters/EnergyBug/bug_Skeleton.uasset",
 				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap",
 				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/LevelLayout/Mats/EmissivePlaceholder.uasset",
 				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/LevelLayout/Mats/RoomLight.uasset",
