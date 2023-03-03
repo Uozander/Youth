@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Battery_Chase/Types/BP_Skittish.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Battery_Chase/Types/BP_Stiff.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Battery_Chase/Types/BP_SmoothStatic.uasset",
@@ -36,6 +37,22 @@
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Sticky/BP_Hand_Projectile.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Splat/BP_Splat.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Sticky/BP_Sticky_Object1.uasset",
+=======
+				"C:/Users/greshamh/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Park/Bench.uasset",
+				"C:/Users/greshamh/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Park/Trashcan.uasset",
+				"C:/Users/greshamh/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Park/Gazebo.uasset",
+				"C:/Users/greshamh/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Park/FallenDoll.uasset",
+				"C:/Users/greshamh/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Toy_Room/FallenDoll.uasset",
+				"C:/Users/greshamh/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Toy_Room/Plush_One.uasset",
+				"C:/Users/greshamh/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Toy_Room/WorkStation.uasset",
+				"C:/Users/greshamh/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Lab/WorkStation.uasset",
+				"C:/Users/greshamh/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Lab/ContainmentTube.uasset",
+				"C:/Users/greshamh/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Toy_Room/ChestBurster.uasset",
+				"C:/Users/greshamh/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Lab/Table.uasset",
+				"C:/Users/greshamh/Documents/GitHub/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap",
+				"C:/Users/greshamh/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Lab/BookShelf.uasset",
+				"C:/Users/greshamh/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Toy_Room/Plush_Two.uasset",
+>>>>>>> Youth
 				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Characters/EnergyBug/bug.uasset",
 				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Characters/EnergyBug/bug_PhysicsAsset.uasset",
 				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Characters/EnergyBug/bug_Skeleton.uasset",
