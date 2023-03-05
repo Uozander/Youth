@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Characters/StickyHand/Stickyhand_Skeleton.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Characters/StickyHand/Stickyhand.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Characters/StickyHand/Stickyhand_PhysicsAsset.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/GEO_Manhole.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/BP_Manhole.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap",
@@ -16,7 +20,6 @@
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Go_Fling_Yourself.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Battery_Chase/BP_Elevator.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Sticky/BP_Alien_Egg.uasset",
-				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Splat/MAT_Goo_Sticky.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Splat/MAT_Goo.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Splat/MAT_Goo_Wobbly.uasset",
