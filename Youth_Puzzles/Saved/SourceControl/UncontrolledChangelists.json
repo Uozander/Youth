@@ -6,9 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset",
-				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Characters/StickyHand/Stickyhand_Skeleton.uasset",
-				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Characters/StickyHand/Stickyhand.uasset",
-				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Characters/StickyHand/Stickyhand_PhysicsAsset.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/GEO_Manhole.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/BP_Manhole.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap",
@@ -24,7 +21,30 @@
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Splat/MAT_Goo.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Splat/MAT_Goo_Wobbly.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Sticky/MAT_GooGun.uasset",
-				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Splat/MAT_Goo_Emissive.uasset"
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Splat/MAT_Goo_Emissive.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Vacuum.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/BP_Vacuum.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/NS_Vacuum.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Mechanics_TEST.umap",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Rooms_Assets/Park/Gazebo.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/StarterContent/Textures/MAT_VAC.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/NS_Muzzle_Flash.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Muzzle_FLash.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Splat/BP_GooBall.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Splat/BP_Gootastic.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Splat/MAT_Goo_NoSquish.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Battery_Chase/MAT_Yellow.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Characters/Player/Mesh/lambert1.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/LevelLayout/Models/Shoebox/ShoeboxRoom_B_box.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/LevelLayout/Models/Shoebox/ShoeboxRoom_B_flaps.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorMaterials/Cascade/CASC_ModuleEnable_MAT.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Noise_Radial.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Noise_Radial_Mat.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Battery_Chase/MAT_Yellow1.uasset",
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Splat/MAT_Goo_Sticky1.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Characters/StickyHand/Stickyhand_Skeleton.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Characters/StickyHand/Stickyhand.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Characters/StickyHand/Stickyhand_PhysicsAsset.uasset"
 			]
 		}
 	]
