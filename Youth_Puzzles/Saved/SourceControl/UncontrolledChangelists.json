@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorMaterials/Cascade/CASC_ModuleEnable_MAT.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/GEO_Manhole.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/BP_Manhole.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap",
@@ -37,7 +39,6 @@
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Characters/Player/Mesh/lambert1.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/LevelLayout/Models/Shoebox/ShoeboxRoom_B_box.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/LevelLayout/Models/Shoebox/ShoeboxRoom_B_flaps.uasset",
-				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorMaterials/Cascade/CASC_ModuleEnable_MAT.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Noise_Radial.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Noise_Radial_Mat.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Battery_Chase/MAT_Yellow1.uasset",
