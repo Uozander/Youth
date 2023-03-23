@@ -7,6 +7,17 @@
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorMaterials/Utilities/LinearColorPicker_MAT.uasset",
 				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/MapTemplates/Materials/BasicAsset02.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Park/Rock_Short.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Park/Rock_Tall.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/LevelLayout/Mats/Park_Glass.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Toy_Room/Plush_Two.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Toy_Room/Plush_One.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Toy_Room/FallenDoll.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Toy_Room/ChestBurster.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/BP_Manhole.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/LevelLayout/Mats/RoomLight.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/LevelLayout/Mats/SphereGlass.uasset",
 				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Cinematics/NewLevelSequence.uasset",
 				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap",
 				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Cinematics/EC_Land_Take_off.uasset",
@@ -29,15 +40,7 @@
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Puzzles/Obelisk/Button/Button_aiStandardSurface4SG_Roughness.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Puzzles/Obelisk/Button/Button_aiStandardSurface4SG_Emissive.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Puzzles/Obelisk/Button/Button_aiStandardSurface4SG_Normal.uasset",
-				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Puzzles/Obelisk/Button/MAT_AND_LETTER_A.uasset",
-				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Park/Rock_Short.uasset",
-				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Park/Rock_Tall.uasset",
-				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap",
-				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/LevelLayout/Mats/Park_Glass.uasset",
-				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Toy_Room/Plush_Two.uasset",
-				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Toy_Room/Plush_One.uasset",
-				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Toy_Room/FallenDoll.uasset",
-				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Toy_Room/ChestBurster.uasset"
+				"C:/Users/BEALJ1/Documents/Group/Youth/Youth/Youth_Puzzles/Content/Puzzles/Obelisk/Button/MAT_AND_LETTER_A.uasset"
 			]
 		}
 	]
