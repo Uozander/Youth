@@ -5,9 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/LevelLayout/Mats/Park_Glass.uasset",
 				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/LevelLayout/Mats/Glass_MASTER.uasset",
 				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap",
+=======
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Bedroom/Rug.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Lab/Book.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Lab/Flask.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Lab/Microscope.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Lab/Platform.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Lab/StudBattery.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Lab/Table.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Lab/Tubes.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Park/Bench.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Park/Rock_Short.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Park/Rock_Tall.uasset",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap",
+				"C:/Users/caffey/Documents/GitHub/Youth/Youth_Puzzles/Content/Puzzles/Shifting_Floors_Puzzle/Shift_Platform.uasset",
+>>>>>>> Youth
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth_Puzzles/Content/Characters/Player/Animations/BP_FirstPersonCharacter.uasset",
 				"C:/Users/BEALJ1/Documents/Group/Youth/Youth_Puzzles/Content/Puzzles/speakspell_piece.uasset",
