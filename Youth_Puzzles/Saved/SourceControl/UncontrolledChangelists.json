@@ -5,7 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap"
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Puzzles/Obelisk/BP_Obelisk.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Toy_Room/Barn.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Toy_Room/Slider.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Toy_Room/Shelf.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Puzzles/Obelisk/Button/MAT_AND_LETTER_A_Inst.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Puzzles/Obelisk/Button/MAT_AND_LETTER_A.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomTextures/Park/MoonLight/MoonLight_WorldGridMaterial_BaseColor.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomTextures/Park/MoonLight/MoonLight_WorldGridMaterial_Emissive.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomMaterials/Park/MoonLight_PLACEHOLDER.uasset"
 			]
 		}
 	]
