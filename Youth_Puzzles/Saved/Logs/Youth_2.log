@@ -1157,3 +1157,162 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.13-12.44.28:018][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 288 ms
 [2023.04.13-12.44.28:022][826]AssetCheck: New page: Asset Save: Layout_Ver2
 [2023.04.13-12.44.28:022][826]LogContentValidation: Display: Validating /Script/Engine.World /Game/LevelLayout/Levels/Layout_Ver2.Layout_Ver2
+[2023.04.13-12.44.58:391][976]LogDerivedDataCache: C:/Users/elkinse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.248 and deleted 0 files with total size 0 MiB. Scanned 9217 files in 9128 folders with total size 838 MiB.
+[2023.04.13-12.49.39:141][818]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Sweet Nothings Stereo), InstanceID=1
+[2023.04.13-12.49.39:258][818]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=19900
+[2023.04.13-12.49.39:594][819]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{aa6bbee4-e5f2-4167-95f9-268ff297f547}, Name=Headphones (Sweet Nothings Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=30.91
+[2023.04.13-12.49.39:594][819]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.13-12.49.39:594][819]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: ================================================
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: Total job queries 358, among them cache hits 43 (12.01%)
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: Tracking 314 distinct input hashes that result in 165 distinct outputs (52.55%)
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: RAM used: 2.55 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.16%
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: Shaders Compiled: 45
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: Jobs assigned 46, completed 45 (97.83%)
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: Average time worker was idle: 28.31 s
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: Time job spent in pending queue: average 0.21 s, longest 1.41 s
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: Job execution time: average 1.08 s, max 2.10 s
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: Job life time (pending + execution): average 1.29 s, max 2.44
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.04 s
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: Jobs were issued in 46 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: Average processing rate: 3.74 jobs/sec
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: Total thread time: 33.71 s
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: Total thread preprocess time: 2.10 s
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: Percentage time preprocessing: 6.24%
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: Effective parallelization: 2.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 1.02 sec, max 1.03 sec, min 1.01 sec)
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    8 times, average 0.95 sec, max 1.46 sec, min 0.61 sec)
+[2023.04.13-12.50.44:039][ 86]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled   11 times, average 0.86 sec, max 1.13 sec, min 0.54 sec)
+[2023.04.13-12.50.44:040][ 86]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 0.77 sec, max 1.15 sec, min 0.57 sec)
+[2023.04.13-12.50.44:040][ 86]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.13-12.50.44:040][ 86]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 28.20% of total time (compiled   11 times, average 0.86 sec, max 1.13 sec, min 0.54 sec)
+[2023.04.13-12.50.44:040][ 86]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 22.53% of total time (compiled    8 times, average 0.95 sec, max 1.46 sec, min 0.61 sec)
+[2023.04.13-12.50.44:040][ 86]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.36% of total time (compiled    5 times, average 0.77 sec, max 1.15 sec, min 0.57 sec)
+[2023.04.13-12.50.44:040][ 86]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.19% of total time (compiled    5 times, average 0.55 sec, max 1.04 sec, min 0.33 sec)
+[2023.04.13-12.50.44:040][ 86]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.91% of total time (compiled    4 times, average 0.67 sec, max 0.70 sec, min 0.59 sec)
+[2023.04.13-12.50.44:040][ 86]LogShaderCompilers: Display: ================================================
+[2023.04.13-12.50.53:505][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [StudBattery] - forcing default material instead.
+[2023.04.13-12.50.53:505][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [RoboBod] - forcing default material instead.
+[2023.04.13-12.50.53:505][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-12.50.56:242][630]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-12.50.56:242][630]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-12.51.05:955][995]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-12.51.05:955][995]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-12.51.06:157][  1]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-12.51.06:157][  1]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-12.51.06:802][ 22]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [StudBattery] - forcing default material instead.
+[2023.04.13-12.51.06:912][ 26]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [StudBattery] - forcing default material instead.
+[2023.04.13-12.51.13:628][192]LogAssetTools: Warning: Two factories registered with same priority : ReimportSubstanceFactory_0 and SubstanceFactory_0
+[2023.04.13-12.51.13:633][192]LogFactory: FactoryCreateFile: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 D:\ETSU\GroupStudio\SubstanceMats\Alien_Grass.sbsar)
+[2023.04.13-12.51.25:768][192]LogSlate: Window 'Substance Import Options' being destroyed
+[2023.04.13-12.51.25:790][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.04.13-12.51.27:421][192]LogSlate: Window 'Message' being destroyed
+[2023.04.13-12.51.27:432][192]Message dialog closed, result: Ok, title: Message, text: Failed to import 'D:\ETSU\GroupStudio\SubstanceMats\Alien_Grass.sbsar'. Failed to create asset '/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Alien_Grass'.
+Please see Output Log for details.
+[2023.04.13-12.51.27:432][192]LogAssetTools: Warning: Failed to import 'D:\ETSU\GroupStudio\SubstanceMats\Alien_Grass.sbsar'. Failed to create asset '/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Alien_Grass'.
+Please see Output Log for details.
+[2023.04.13-12.51.32:871][367]LogAssetTools: Warning: Two factories registered with same priority : ReimportSubstanceFactory_1 and SubstanceFactory_1
+[2023.04.13-12.51.32:871][367]LogFactory: FactoryCreateFile: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 D:\ETSU\GroupStudio\SubstanceMats\Alien_Grass.sbsar)
+[2023.04.13-12.51.55:230][367]LogSlate: Window 'Substance Import Options' being destroyed
+[2023.04.13-12.51.55:250][367]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_basecolor.AlienGrass_INST_basecolor contains no miplevels! Please delete. (Format: 34)
+[2023.04.13-12.51.55:251][367]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_basecolor.AlienGrass_INST_basecolor contains no miplevels! Please delete. (Format: 34)
+[2023.04.13-12.51.55:251][367]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_normal.AlienGrass_INST_normal contains no miplevels! Please delete. (Format: 34)
+[2023.04.13-12.51.55:251][367]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_normal.AlienGrass_INST_normal contains no miplevels! Please delete. (Format: 34)
+[2023.04.13-12.51.55:252][367]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_roughness.AlienGrass_INST_roughness contains no miplevels! Please delete. (Format: 4)
+[2023.04.13-12.51.55:252][367]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_roughness.AlienGrass_INST_roughness contains no miplevels! Please delete. (Format: 4)
+[2023.04.13-12.51.55:252][367]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_metallic.AlienGrass_INST_metallic contains no miplevels! Please delete. (Format: 37)
+[2023.04.13-12.51.55:252][367]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_metallic.AlienGrass_INST_metallic contains no miplevels! Please delete. (Format: 37)
+[2023.04.13-12.51.55:253][367]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_height.AlienGrass_INST_height contains no miplevels! Please delete. (Format: 4)
+[2023.04.13-12.51.55:253][367]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_height.AlienGrass_INST_height contains no miplevels! Please delete. (Format: 4)
+[2023.04.13-12.51.55:253][367]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_ambientocclusion.AlienGrass_INST_ambientocclusion contains no miplevels! Please delete. (Format: 4)
+[2023.04.13-12.51.55:253][367]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_ambientocclusion.AlienGrass_INST_ambientocclusion contains no miplevels! Please delete. (Format: 4)
+[2023.04.13-12.51.55:517][367]LogTexture: Display: Building textures: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_basecolor.AlienGrass_INST_basecolor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.13-12.51.55:520][367]LogTexture: Display: Building textures: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_normal.AlienGrass_INST_normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 214.89582 MB), EncodeSpeed: Fast
+[2023.04.13-12.51.55:530][367]LogSubstanceCore: Warning: Import Warning- pkg://Substance_graph
+Could not find material nodes in template to connect outputs :
+ - height
+[2023.04.13-12.51.55:545][367]LogTexture: Display: Building textures: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_metallic.AlienGrass_INST_metallic (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 28.062493 MB), EncodeSpeed: Fast
+[2023.04.13-12.51.55:545][367]LogTexture: Display: Building textures: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_height.AlienGrass_INST_height (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 28.062493 MB), EncodeSpeed: Fast
+[2023.04.13-12.51.55:545][367]LogTexture: Display: Building textures: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_roughness.AlienGrass_INST_roughness (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 28.062493 MB), EncodeSpeed: Fast
+[2023.04.13-12.51.55:548][367]LogTexture: Display: Building textures: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_ambientocclusion.AlienGrass_INST_ambientocclusion (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 28.062493 MB), EncodeSpeed: Fast
+[2023.04.13-12.51.55:640][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.13-12.51.55:646][368]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_height.AlienGrass_INST_height
+	Asset Type: Texture2D
+[2023.04.13-12.51.55:839][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:839][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:839][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:839][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-12.51.55:840][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [StudBattery] - forcing default material instead.
+[2023.04.13-12.51.55:865][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.04.13-12.51.55:875][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.04.13-12.51.55:884][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.04.13-12.52.00:416][564]Cmd: EDIT CUT
+[2023.04.13-12.52.00:439][564]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.04.13-12.52.00:450][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.04.13-12.52.00:451][564]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2023.04.13-12.52.11:479][189]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.13-12.52.11:599][189]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.13-12.52.11:619][190]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.13-12.52.19:479][581]LogContentBrowser: Attempting asset rename: NewFolder -> Environment
+[2023.04.13-12.52.19:479][581]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.13-12.52.58:172][ 54]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.04.13-12.53.04:370][500]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -9126.24,8897.09,6274.00
+[2023.04.13-12.53.04:621][501]LogViewport: Scene viewport resized to 428x241, mode Windowed.
+[2023.04.13-12.53.39:196][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.04.13-12.53.39:200][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.13-12.53.39:260][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.04.13-12.53.39:413][650]LogSavePackage: Moving output files for package: /Game/LevelLayout/Levels/Layout_Ver2
+[2023.04.13-12.53.39:415][650]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/Layout_Ver22A6A5991430C4C09602847BFF37574C1.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap'
+[2023.04.13-12.53.39:430][650]LogFileHelpers: No new changes to save!
+[2023.04.13-12.53.39:434][650]LogFileHelpers: No new changes to save!
+[2023.04.13-12.53.39:434][650]LogFileHelpers: Saving map 'Layout_Ver2' took 0.182
+[2023.04.13-12.53.39:436][650]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomMaterials/Park/Alien_Grass
+[2023.04.13-12.53.39:436][650]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/Alien_Grass5D0F74C0422810869B0A77BBD9FC7D01.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomMaterials/Park/Alien_Grass.uasset'
+[2023.04.13-12.53.39:442][650]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST
+[2023.04.13-12.53.39:442][650]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_INST23E5B5C8474FC1CFE06840A74E6E23BB.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST.uasset'
+[2023.04.13-12.53.39:468][650]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_basecolor
+[2023.04.13-12.53.39:468][650]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_INST_basecolorA8F36BB3470A992AB4E293842B06C62F.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_basecolor.uasset'
+[2023.04.13-12.53.39:499][650]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_normal
+[2023.04.13-12.53.39:499][650]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_INST_normal56138D0A4578AF4BB513B983BF29D7D5.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_normal.uasset'
+[2023.04.13-12.53.39:523][650]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_roughness
+[2023.04.13-12.53.39:523][650]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_INST_roughness60836052422857C86DED20BC7AB5D1E1.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_roughness.uasset'
+[2023.04.13-12.53.39:534][650]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_metallic
+[2023.04.13-12.53.39:534][650]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_INST_metallic7FAC83FB42C06F04A4F1FE81A1100648.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_metallic.uasset'
+[2023.04.13-12.53.39:585][650]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_MAT
+[2023.04.13-12.53.39:585][650]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_MAT47D782E846C09ECE9D63BB87D0E17237.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_MAT.uasset'
+[2023.04.13-12.53.39:608][650]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_ambientocclusion
+[2023.04.13-12.53.39:608][650]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_INST_ambientocclusionFA19A5DE4293B2A69D8942B2E887AAEA.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_ambientocclusion.uasset'
+[2023.04.13-12.53.39:631][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 430 ms (total: 719 ms)
+[2023.04.13-12.53.39:636][650]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.13-12.53.39:636][650]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_MAT.AlienGrass_MAT
+[2023.04.13-12.53.39:636][650]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_ambientocclusion.AlienGrass_INST_ambientocclusion
+[2023.04.13-12.53.39:636][650]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_metallic.AlienGrass_INST_metallic
+[2023.04.13-12.53.39:636][650]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_roughness.AlienGrass_INST_roughness
+[2023.04.13-12.53.39:636][650]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_normal.AlienGrass_INST_normal
+[2023.04.13-12.53.39:636][650]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_basecolor.AlienGrass_INST_basecolor
+[2023.04.13-12.53.39:636][650]LogContentValidation: Display: Validating /Script/SubstanceCore.SubstanceGraphInstance /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST.AlienGrass_INST
+[2023.04.13-12.53.39:636][650]LogContentValidation: Display: Validating /Script/SubstanceCore.SubstanceInstanceFactory /Game/Rooms_Assets/Materials/RoomMaterials/Park/Alien_Grass.Alien_Grass
+[2023.04.13-12.53.39:636][650]LogContentValidation: Display: Validating /Script/Engine.World /Game/LevelLayout/Levels/Layout_Ver2.Layout_Ver2
