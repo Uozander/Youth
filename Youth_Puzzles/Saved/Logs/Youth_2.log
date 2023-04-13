@@ -1599,3 +1599,863 @@ Script Stack (0 frames) :
 [2023.04.13-13.05.43:661][933]AssetCheck: New page: Asset Save: Layout_Ver2
 [2023.04.13-13.05.43:661][933]LogContentValidation: Display: Validating /Script/Engine.World /Game/LevelLayout/Levels/Layout_Ver2.Layout_Ver2
 [2023.04.13-13.05.58:056][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.13-13.13.25:410][429]LogAssetTools: Warning: Two factories registered with same priority : ReimportSubstanceFactory_2 and SubstanceFactory_2
+[2023.04.13-13.13.25:410][429]LogFactory: FactoryCreateFile: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 D:\ETSU\GroupStudio\SubstanceMats\Alien_Grass.sbsar)
+[2023.04.13-13.13.40:403][429]LogSlate: Window 'Substance Import Options' being destroyed
+[2023.04.13-13.13.40:419][429]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_basecolor.AlienGrass_INST_basecolor contains no miplevels! Please delete. (Format: 34)
+[2023.04.13-13.13.40:420][429]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_basecolor.AlienGrass_INST_basecolor contains no miplevels! Please delete. (Format: 34)
+[2023.04.13-13.13.40:420][429]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_normal.AlienGrass_INST_normal contains no miplevels! Please delete. (Format: 34)
+[2023.04.13-13.13.40:421][429]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_normal.AlienGrass_INST_normal contains no miplevels! Please delete. (Format: 34)
+[2023.04.13-13.13.40:421][429]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_roughness.AlienGrass_INST_roughness contains no miplevels! Please delete. (Format: 4)
+[2023.04.13-13.13.40:421][429]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_roughness.AlienGrass_INST_roughness contains no miplevels! Please delete. (Format: 4)
+[2023.04.13-13.13.40:421][429]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_metallic.AlienGrass_INST_metallic contains no miplevels! Please delete. (Format: 37)
+[2023.04.13-13.13.40:422][429]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_metallic.AlienGrass_INST_metallic contains no miplevels! Please delete. (Format: 37)
+[2023.04.13-13.13.40:422][429]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_height.AlienGrass_INST_height contains no miplevels! Please delete. (Format: 4)
+[2023.04.13-13.13.40:423][429]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_height.AlienGrass_INST_height contains no miplevels! Please delete. (Format: 4)
+[2023.04.13-13.13.40:423][429]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_ambientocclusion.AlienGrass_INST_ambientocclusion contains no miplevels! Please delete. (Format: 4)
+[2023.04.13-13.13.40:423][429]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_ambientocclusion.AlienGrass_INST_ambientocclusion contains no miplevels! Please delete. (Format: 4)
+[2023.04.13-13.13.40:712][429]LogTexture: Display: Building textures: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_basecolor.AlienGrass_INST_basecolor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.13-13.13.40:716][429]LogTexture: Display: Building textures: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_normal.AlienGrass_INST_normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 214.89582 MB), EncodeSpeed: Fast
+[2023.04.13-13.13.40:725][429]LogSubstanceCore: Warning: Import Warning- pkg://Substance_graph
+Could not find material nodes in template to connect outputs :
+ - height
+[2023.04.13-13.13.40:740][429]LogTexture: Display: Building textures: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_metallic.AlienGrass_INST_metallic (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 28.062493 MB), EncodeSpeed: Fast
+[2023.04.13-13.13.40:740][429]LogTexture: Display: Building textures: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_ambientocclusion.AlienGrass_INST_ambientocclusion (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 28.062493 MB), EncodeSpeed: Fast
+[2023.04.13-13.13.40:740][429]LogTexture: Display: Building textures: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_height.AlienGrass_INST_height (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 28.062493 MB), EncodeSpeed: Fast
+[2023.04.13-13.13.40:740][429]LogTexture: Display: Building textures: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_roughness.AlienGrass_INST_roughness (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 28.062493 MB), EncodeSpeed: Fast
+[2023.04.13-13.13.40:830][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.13-13.13.40:837][430]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_height.AlienGrass_INST_height
+	Asset Type: Texture2D
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.13.41:008][430]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [StudBattery] - forcing default material instead.
+[2023.04.13-13.13.41:034][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.13-13.13.41:044][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.13-13.13.41:052][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.04.13-13.13.46:597][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.13-13.13.46:677][730]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_ambientocclusion
+[2023.04.13-13.13.46:677][730]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_INST_ambientocclusion05DFB9E44A6A5A4065CA7B9DDADC81D9.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_ambientocclusion.uasset'
+[2023.04.13-13.13.46:700][730]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_basecolor
+[2023.04.13-13.13.46:700][730]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_INST_basecolorCDDDC21E494E8335CEF0AF844E863919.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_basecolor.uasset'
+[2023.04.13-13.13.46:710][730]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_metallic
+[2023.04.13-13.13.46:710][730]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_INST_metallic431730F94E7F52C35475E785D8576510.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_metallic.uasset'
+[2023.04.13-13.13.46:736][730]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_normal
+[2023.04.13-13.13.46:736][730]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_INST_normal86273BD746FA28F40033ECAEB571E048.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_normal.uasset'
+[2023.04.13-13.13.46:759][730]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_roughness
+[2023.04.13-13.13.46:759][730]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_INST_roughness37E1329B4612C15CDA04C4A610E34ADD.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_roughness.uasset'
+[2023.04.13-13.13.46:771][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 1.32 sec)
+[2023.04.13-13.13.46:810][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.04.13-13.13.46:819][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.04.13-13.13.46:827][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.04.13-13.13.46:845][730]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.13-13.13.46:845][730]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_ambientocclusion.AlienGrass_INST_ambientocclusion
+[2023.04.13-13.13.46:845][730]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_metallic.AlienGrass_INST_metallic
+[2023.04.13-13.13.46:845][730]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_normal.AlienGrass_INST_normal
+[2023.04.13-13.13.46:845][730]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_roughness.AlienGrass_INST_roughness
+[2023.04.13-13.13.46:845][730]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_basecolor.AlienGrass_INST_basecolor
+[2023.04.13-13.14.00:453][416]Cmd: TRANSACTION UNDO
+[2023.04.13-13.14.00:453][416]LogEditorTransaction: Undo Create Actors
+[2023.04.13-13.14.08:605][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.13-13.14.10:258][787]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.13-13.14.10:278][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.13-13.14.10:287][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.13-13.14.10:297][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.04.13-13.14.14:911][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.04.13-13.14.17:894][991]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.13-13.14.17:918][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.13-13.14.17:928][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.13-13.14.17:936][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.04.13-13.14.21:634][143]LogAssetTools: Warning: Two factories registered with same priority : ReimportSubstanceFactory_3 and SubstanceFactory_3
+[2023.04.13-13.14.21:634][143]LogFactory: FactoryCreateFile: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 D:\ETSU\GroupStudio\SubstanceMats\Alien_Grass.sbsar)
+[2023.04.13-13.14.38:387][143]LogSlate: Window 'Substance Import Options' being destroyed
+[2023.04.13-13.14.38:405][143]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_basecolor.AlienGrass_INST_basecolor contains no miplevels! Please delete. (Format: 34)
+[2023.04.13-13.14.38:405][143]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_basecolor.AlienGrass_INST_basecolor contains no miplevels! Please delete. (Format: 34)
+[2023.04.13-13.14.38:405][143]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_normal.AlienGrass_INST_normal contains no miplevels! Please delete. (Format: 34)
+[2023.04.13-13.14.38:406][143]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_normal.AlienGrass_INST_normal contains no miplevels! Please delete. (Format: 34)
+[2023.04.13-13.14.38:406][143]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_roughness.AlienGrass_INST_roughness contains no miplevels! Please delete. (Format: 4)
+[2023.04.13-13.14.38:406][143]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_roughness.AlienGrass_INST_roughness contains no miplevels! Please delete. (Format: 4)
+[2023.04.13-13.14.38:407][143]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_metallic.AlienGrass_INST_metallic contains no miplevels! Please delete. (Format: 37)
+[2023.04.13-13.14.38:407][143]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_metallic.AlienGrass_INST_metallic contains no miplevels! Please delete. (Format: 37)
+[2023.04.13-13.14.38:407][143]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_height.AlienGrass_INST_height contains no miplevels! Please delete. (Format: 4)
+[2023.04.13-13.14.38:407][143]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_height.AlienGrass_INST_height contains no miplevels! Please delete. (Format: 4)
+[2023.04.13-13.14.38:408][143]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_ambientocclusion.AlienGrass_INST_ambientocclusion contains no miplevels! Please delete. (Format: 4)
+[2023.04.13-13.14.38:408][143]LogTexture: Error: Texture2D /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_ambientocclusion.AlienGrass_INST_ambientocclusion contains no miplevels! Please delete. (Format: 4)
+[2023.04.13-13.14.38:690][143]LogTexture: Display: Building textures: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_basecolor.AlienGrass_INST_basecolor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.13-13.14.38:693][143]LogTexture: Display: Building textures: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_normal.AlienGrass_INST_normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 214.89582 MB), EncodeSpeed: Fast
+[2023.04.13-13.14.38:702][143]LogSubstanceCore: Warning: Import Warning- pkg://Substance_graph
+Could not find material nodes in template to connect outputs :
+ - height
+[2023.04.13-13.14.38:718][143]LogTexture: Display: Building textures: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_metallic.AlienGrass_INST_metallic (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 28.062493 MB), EncodeSpeed: Fast
+[2023.04.13-13.14.38:718][143]LogTexture: Display: Building textures: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_roughness.AlienGrass_INST_roughness (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 28.062493 MB), EncodeSpeed: Fast
+[2023.04.13-13.14.38:718][143]LogTexture: Display: Building textures: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_height.AlienGrass_INST_height (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 28.062493 MB), EncodeSpeed: Fast
+[2023.04.13-13.14.38:719][143]LogTexture: Display: Building textures: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_ambientocclusion.AlienGrass_INST_ambientocclusion (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 28.062493 MB), EncodeSpeed: Fast
+[2023.04.13-13.14.38:804][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.04.13-13.14.38:812][144]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST_height.AlienGrass_INST_height
+	Asset Type: Texture2D
+[2023.04.13-13.14.39:021][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:021][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:021][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:021][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.14.39:022][144]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [StudBattery] - forcing default material instead.
+[2023.04.13-13.14.39:050][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.04.13-13.14.39:060][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.13-13.14.39:070][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.04.13-13.14.55:985][958]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.13-13.14.56:058][958]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_ambientocclusion
+[2023.04.13-13.14.56:058][958]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_INST_ambientocclusionABE6F7AE4A558858F77DCF85C41A7F47.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_ambientocclusion.uasset'
+[2023.04.13-13.14.56:082][958]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_basecolor
+[2023.04.13-13.14.56:082][958]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_INST_basecolorB5A24C224C729389BA3801A43DE3BE1A.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_basecolor.uasset'
+[2023.04.13-13.14.56:092][958]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_metallic
+[2023.04.13-13.14.56:092][958]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_INST_metallicB0F94D3A497465466D33D083942A449F.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_metallic.uasset'
+[2023.04.13-13.14.56:120][958]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_normal
+[2023.04.13-13.14.56:120][958]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_INST_normal1D5D7E94469CD601203BDC8BC7213419.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_normal.uasset'
+[2023.04.13-13.14.56:145][958]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_roughness
+[2023.04.13-13.14.56:145][958]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_INST_roughness16568C4F48CD2619927E2189F77A66D5.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_roughness.uasset'
+[2023.04.13-13.14.56:157][958]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 1.50 sec)
+[2023.04.13-13.14.56:204][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.04.13-13.14.56:214][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.13-13.14.56:224][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.04.13-13.14.56:242][958]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.13-13.14.56:242][958]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_ambientocclusion.AlienGrass_INST_ambientocclusion
+[2023.04.13-13.14.56:242][958]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_normal.AlienGrass_INST_normal
+[2023.04.13-13.14.56:242][958]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_metallic.AlienGrass_INST_metallic
+[2023.04.13-13.14.56:242][958]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_basecolor.AlienGrass_INST_basecolor
+[2023.04.13-13.14.56:242][958]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rooms_Assets/Materials/RoomTextures/Park/Environment/AlienGrass_INST_roughness.AlienGrass_INST_roughness
+[2023.04.13-13.15.03:389][284]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_MAT.AlienGrass_MAT
+[2023.04.13-13.15.03:390][284]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-13.15.03:635][284]LogViewport: Scene viewport resized to 1781x1218, mode Windowed.
+[2023.04.13-13.15.07:552][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:552][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:552][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:552][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.07:553][454]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [StudBattery] - forcing default material instead.
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: ================================================
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: Total job queries 511, among them cache hits 57 (11.15%)
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: Tracking 454 distinct input hashes that result in 218 distinct outputs (48.02%)
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: RAM used: 3.61 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.22%
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: Shaders Compiled: 180
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: Jobs assigned 180, completed 180 (100.00%)
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: Average time worker was idle: 38.35 s
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: Time job spent in pending queue: average 1.28 s, longest 5.87 s
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: Job execution time: average 1.03 s, max 2.52 s
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: Job life time (pending + execution): average 2.31 s, max 6.60
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 38.02 s
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: Jobs were issued in 180 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: Average processing rate: 4.73 jobs/sec
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: Total thread time: 141.06 s
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: Total thread preprocess time: 8.05 s
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: Percentage time preprocessing: 5.71%
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: Effective parallelization: 3.71 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.00 sec, max 2.00 sec, min 2.00 sec)
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   47 times, average 1.07 sec, max 2.12 sec, min 0.59 sec)
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 1.02 sec, max 1.03 sec, min 1.01 sec)
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   10 times, average 0.92 sec, max 1.46 sec, min 0.61 sec)
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 35.60% of total time (compiled   47 times, average 1.07 sec, max 2.12 sec, min 0.59 sec)
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.60% of total time (compiled   37 times, average 0.75 sec, max 0.96 sec, min 0.57 sec)
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.74% of total time (compiled   32 times, average 0.69 sec, max 1.15 sec, min 0.54 sec)
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.21% of total time (compiled   32 times, average 0.45 sec, max 1.04 sec, min 0.33 sec)
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 7.20% of total time (compiled   12 times, average 0.85 sec, max 1.13 sec, min 0.54 sec)
+[2023.04.13-13.15.07:629][454]LogShaderCompilers: Display: ================================================
+[2023.04.13-13.15.09:473][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:473][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:473][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:473][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.15.09:474][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [StudBattery] - forcing default material instead.
+[2023.04.13-13.16.28:274][229]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.13-13.16.28:283][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.13-13.16.28:284][229]PIE: New page: PIE session: Layout_Ver2 (Apr 13, 2023, 5:16:28 AM)
+[2023.04.13-13.16.28:287][229]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.04.13-13.16.28:287][229]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.04.13-13.16.28:287][229]LogPlayLevel: Creating play world package: /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2
+[2023.04.13-13.16.28:321][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033634s)
+[2023.04.13-13.16.28:321][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelLayout/Levels/Layout_Ver2.Layout_Ver2 to /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2.Layout_Ver2 (0.033700s)
+[2023.04.13-13.16.28:321][229]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-13.16.28:321][229]LogAIModule: Creating AISystem for world Layout_Ver2
+[2023.04.13-13.16.28:322][229]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2023.04.13-13.16.28:334][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.04.13-13.16.28:335][229]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.04.13-13.16.28:335][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.13-13.16.28:335][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.13-13.16.28:335][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.13-13.16.28:335][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.13-13.16.28:335][229]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.13-13.16.28:335][229]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.13-13.16.28:335][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.13-13.16.28:335][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.13-13.16.28:336][229]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.13-13.16.28:336][229]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.13-13.16.28:336][229]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.13-13.16.28:338][229]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.13-13.16.28:354][229]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Sweet Nothings Stereo)
+[2023.04.13-13.16.28:354][229]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.13-13.16.28:354][229]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.13-13.16.28:354][229]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.13-13.16.28:355][229]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.04.13-13.16.28:355][229]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.04.13-13.16.28:356][229]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.04.13-13.16.28:356][229]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.04.13-13.16.28:356][229]LogInit: FAudioDevice initialized.
+[2023.04.13-13.16.28:356][229]LogAudio: Display: Audio Device (ID: 2) registered with world 'Layout_Ver2'.
+[2023.04.13-13.16.28:363][229]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.13-13.16.28:366][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:366][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:366][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:366][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:370][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.16.28:370][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:370][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:370][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:370][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:370][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:370][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:370][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:370][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:370][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:370][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:370][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:370][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:370][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.16.28:370][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:370][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:370][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:370][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.16.28:371][229]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [StudBattery] - forcing default material instead.
+[2023.04.13-13.16.28:385][229]LogWorld: Bringing World /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2.Layout_Ver2 up for play (max tick rate 0) at 2023.04.13-09.16.28
+[2023.04.13-13.16.28:387][229]LogWorld: Bringing up level for play took: 0.022956
+[2023.04.13-13.16.28:389][229]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.04.13-13.16.28:407][229]LogLevelSequence: Starting new camera cut: 'CineCameraActor_4'
+[2023.04.13-13.16.28:410][229]PIE: Server logged in
+[2023.04.13-13.16.28:411][229]PIE: Play in editor total start time 0.127 seconds.
+[2023.04.13-13.16.33:044][381]LogLevelSequence: Starting new camera cut: 'None'
+[2023.04.13-13.16.36:268][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-13.16.36:268][529]LogWorld: BeginTearingDown for /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2
+[2023.04.13-13.16.36:269][529]LogWorld: UWorld::CleanupWorld for Layout_Ver2, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-13.16.36:271][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-13.16.36:275][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.13-13.16.36:278][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-13.16.36:289][529]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.13-13.16.36:290][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.04.13-13.16.36:291][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.04.13-13.16.36:294][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-13.16.36:300][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.04.13-13.16.36:375][530]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.04.13-13.16.48:737][ 35]LogSlate: Window 'Plugins' being destroyed
+[2023.04.13-13.16.48:745][ 35]LogSlate: Window 'Plugins' being destroyed
+[2023.04.13-13.16.48:745][ 35]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2023.04.13-13.16.50:330][106]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Andrew/shoeboxgrp.shoeboxgrp
+[2023.04.13-13.16.50:340][106]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-13.16.50:601][106]LogViewport: Scene viewport resized to 1874x1218, mode Windowed.
+[2023.04.13-13.16.57:336][387]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Andrew/shoeboxgrp) ...
+[2023.04.13-13.16.59:432][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.13-13.16.59:531][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andrew/shoeboxgrp" FILE="../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Andrew/shoeboxgrp.uasset" SILENT=true
+[2023.04.13-13.16.59:547][472]LogSavePackage: Moving output files for package: /Game/Andrew/shoeboxgrp
+[2023.04.13-13.16.59:658][472]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/shoeboxgrp64764A104380C64C6AD63DBCBB8C32E1.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Andrew/shoeboxgrp.uasset'
+[2023.04.13-13.16.59:669][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 238 ms (total: 1.73 sec)
+[2023.04.13-13.16.59:675][472]AssetCheck: New page: Asset Save: shoeboxgrp
+[2023.04.13-13.16.59:675][472]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Andrew/shoeboxgrp.shoeboxgrp
+[2023.04.13-13.17.01:458][547]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.13-13.17.01:471][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.13-13.17.01:471][547]PIE: New page: PIE session: Layout_Ver2 (Apr 13, 2023, 5:17:01 AM)
+[2023.04.13-13.17.01:471][547]LogPlayLevel: Creating play world package: /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2
+[2023.04.13-13.17.01:509][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038686s)
+[2023.04.13-13.17.01:509][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelLayout/Levels/Layout_Ver2.Layout_Ver2 to /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2.Layout_Ver2 (0.038726s)
+[2023.04.13-13.17.01:509][547]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-13.17.01:510][547]LogAIModule: Creating AISystem for world Layout_Ver2
+[2023.04.13-13.17.01:510][547]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2023.04.13-13.17.01:520][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.13-13.17.01:522][547]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.04.13-13.17.01:522][547]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.13-13.17.01:522][547]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.13-13.17.01:522][547]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.13-13.17.01:522][547]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.13-13.17.01:522][547]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.13-13.17.01:522][547]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.13-13.17.01:522][547]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.13-13.17.01:522][547]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.13-13.17.01:523][547]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.13-13.17.01:523][547]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.13-13.17.01:523][547]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.13-13.17.01:524][547]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.13-13.17.01:542][547]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Sweet Nothings Stereo)
+[2023.04.13-13.17.01:542][547]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.13-13.17.01:542][547]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.13-13.17.01:542][547]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.13-13.17.01:543][547]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.04.13-13.17.01:543][547]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.04.13-13.17.01:544][547]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.04.13-13.17.01:544][547]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.04.13-13.17.01:544][547]LogInit: FAudioDevice initialized.
+[2023.04.13-13.17.01:544][547]LogAudio: Display: Audio Device (ID: 3) registered with world 'Layout_Ver2'.
+[2023.04.13-13.17.01:548][547]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.13-13.17.01:551][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:551][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:551][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:551][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:554][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.17.01:554][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:554][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:554][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:554][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:554][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:554][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:554][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:554][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:554][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:554][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:555][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:555][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:555][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.17.01:555][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:555][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:555][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:555][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.17.01:556][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [StudBattery] - forcing default material instead.
+[2023.04.13-13.17.01:565][547]LogWorld: Bringing World /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2.Layout_Ver2 up for play (max tick rate 0) at 2023.04.13-09.17.01
+[2023.04.13-13.17.01:566][547]LogWorld: Bringing up level for play took: 0.017143
+[2023.04.13-13.17.01:567][547]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.04.13-13.17.01:572][547]LogLevelSequence: Starting new camera cut: 'CineCameraActor_4'
+[2023.04.13-13.17.01:573][547]PIE: Server logged in
+[2023.04.13-13.17.01:575][547]PIE: Play in editor total start time 0.104 seconds.
+[2023.04.13-13.17.05:942][762]LogLevelSequence: Starting new camera cut: 'None'
+[2023.04.13-13.17.24:847][720]LogLevelSequence: Starting new camera cut: 'Cine_Camera_Actor_1'
+[2023.04.13-13.17.29:172][937]LogLevelSequence: Blending into new camera cut: 'Cine_Camera_Actor_1' -> 'None' (blend time: 0.000000)
+[2023.04.13-13.17.32:625][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-13.18.13:819][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-13.18.13:819][108]LogWorld: BeginTearingDown for /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2
+[2023.04.13-13.18.13:820][108]LogWorld: UWorld::CleanupWorld for Layout_Ver2, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-13.18.13:822][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-13.18.13:826][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.13-13.18.13:829][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-13.18.13:839][108]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.13-13.18.13:839][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.13-13.18.13:841][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.13-13.18.13:844][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-13.18.13:849][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.04.13-13.18.13:914][109]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.04.13-13.19.03:958][213]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-13.19.03:958][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-13.19.20:660][  7]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.13-13.19.20:673][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.13-13.19.20:673][  7]PIE: New page: PIE session: Layout_Ver2 (Apr 13, 2023, 5:19:20 AM)
+[2023.04.13-13.19.20:673][  7]LogPlayLevel: Creating play world package: /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2
+[2023.04.13-13.19.20:712][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039482s)
+[2023.04.13-13.19.20:713][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelLayout/Levels/Layout_Ver2.Layout_Ver2 to /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2.Layout_Ver2 (0.039524s)
+[2023.04.13-13.19.20:713][  7]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-13.19.20:713][  7]LogAIModule: Creating AISystem for world Layout_Ver2
+[2023.04.13-13.19.20:713][  7]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2023.04.13-13.19.20:726][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.04.13-13.19.20:729][  7]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.04.13-13.19.20:729][  7]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.13-13.19.20:729][  7]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.13-13.19.20:729][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.13-13.19.20:729][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.13-13.19.20:729][  7]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.13-13.19.20:729][  7]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.13-13.19.20:729][  7]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.13-13.19.20:729][  7]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.13-13.19.20:729][  7]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.13-13.19.20:729][  7]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.13-13.19.20:729][  7]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.13-13.19.20:731][  7]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.13-13.19.20:750][  7]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Sweet Nothings Stereo)
+[2023.04.13-13.19.20:750][  7]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.13-13.19.20:750][  7]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.13-13.19.20:750][  7]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.13-13.19.20:750][  7]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.04.13-13.19.20:750][  7]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.04.13-13.19.20:752][  7]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.04.13-13.19.20:752][  7]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.04.13-13.19.20:752][  7]LogInit: FAudioDevice initialized.
+[2023.04.13-13.19.20:752][  7]LogAudio: Display: Audio Device (ID: 4) registered with world 'Layout_Ver2'.
+[2023.04.13-13.19.20:756][  7]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.13-13.19.20:758][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:758][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:758][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:758][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:762][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.19.20:762][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:762][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:762][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:762][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:762][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:762][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:762][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:762][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:762][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:762][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:762][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:762][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:762][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.19.20:762][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:762][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:762][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:762][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.19.20:763][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [StudBattery] - forcing default material instead.
+[2023.04.13-13.19.20:772][  7]LogWorld: Bringing World /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2.Layout_Ver2 up for play (max tick rate 0) at 2023.04.13-09.19.20
+[2023.04.13-13.19.20:772][  7]LogWorld: Bringing up level for play took: 0.016857
+[2023.04.13-13.19.20:774][  7]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.04.13-13.19.20:779][  7]LogLevelSequence: Starting new camera cut: 'CineCameraActor_4'
+[2023.04.13-13.19.20:781][  7]PIE: Server logged in
+[2023.04.13-13.19.20:782][  7]PIE: Play in editor total start time 0.109 seconds.
+[2023.04.13-13.19.25:155][245]LogLevelSequence: Starting new camera cut: 'None'
+[2023.04.13-13.19.32:541][648]LogLevelSequence: Starting new camera cut: 'Cine_Camera_Actor_1'
+[2023.04.13-13.19.36:864][878]LogLevelSequence: Blending into new camera cut: 'Cine_Camera_Actor_1' -> 'None' (blend time: 0.000000)
+[2023.04.13-13.19.40:269][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: ================================================
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: Total job queries 519, among them cache hits 57 (10.98%)
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: Tracking 457 distinct input hashes that result in 220 distinct outputs (48.14%)
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: RAM used: 3.63 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.22%
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: Shaders Compiled: 183
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: Jobs assigned 188, completed 183 (97.34%)
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: Average time worker was idle: 82.07 s
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: Time job spent in pending queue: average 1.23 s, longest 5.87 s
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: Job execution time: average 1.04 s, max 2.52 s
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: Job life time (pending + execution): average 2.29 s, max 6.60
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 40.63 s
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: Jobs were issued in 188 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: Average processing rate: 4.50 jobs/sec
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: Total thread time: 143.13 s
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: Total thread preprocess time: 8.20 s
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: Percentage time preprocessing: 5.73%
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: Effective parallelization: 3.52 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.00 sec, max 2.00 sec, min 2.00 sec)
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   49 times, average 1.06 sec, max 2.12 sec, min 0.59 sec)
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 1.02 sec, max 1.03 sec, min 1.01 sec)
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   10 times, average 0.92 sec, max 1.46 sec, min 0.61 sec)
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 36.12% of total time (compiled   49 times, average 1.06 sec, max 2.12 sec, min 0.59 sec)
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.72% of total time (compiled   38 times, average 0.74 sec, max 0.96 sec, min 0.57 sec)
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.51% of total time (compiled   32 times, average 0.69 sec, max 1.15 sec, min 0.54 sec)
+[2023.04.13-13.19.57:643][850]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.06% of total time (compiled   32 times, average 0.45 sec, max 1.04 sec, min 0.33 sec)
+[2023.04.13-13.19.57:644][850]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 7.10% of total time (compiled   12 times, average 0.85 sec, max 1.13 sec, min 0.54 sec)
+[2023.04.13-13.19.57:644][850]LogShaderCompilers: Display: ================================================
+[2023.04.13-13.20.09:199][409]LogLevelSequence: Starting new camera cut: 'CineCameraActor_4'
+[2023.04.13-13.20.12:774][559]LogLevelSequence: Starting new camera cut: 'None'
+[2023.04.13-13.20.37:470][632]LogLevelSequence: Blending into new camera cut: 'BP_FirstPersonCharacter_C_0' -> 'Cine_Camera_Actor_3' (blend time: 0.000000)
+[2023.04.13-13.20.39:521][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-13.20.39:521][733]LogWorld: BeginTearingDown for /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2
+[2023.04.13-13.20.39:521][733]LogWorld: UWorld::CleanupWorld for Layout_Ver2, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-13.20.39:523][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-13.20.39:529][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.13-13.20.39:531][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-13.20.39:544][733]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.13-13.20.39:545][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.04.13-13.20.39:546][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.04.13-13.20.39:551][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-13.20.39:557][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.04.13-13.20.39:628][734]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.04.13-13.20.55:472][500]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics/Opening_wake.Opening_wake
+[2023.04.13-13.20.55:640][500]LogSlate: Took 0.004986 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.13-13.21.00:040][691]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics/EC_Land_Take_off.EC_Land_Take_off
+[2023.04.13-13.21.08:426][ 73]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics/LabExit.LabExit
+[2023.04.13-13.21.53:716][500]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.13-13.21.53:728][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.13-13.21.53:728][500]PIE: New page: PIE session: Layout_Ver2 (Apr 13, 2023, 5:21:53 AM)
+[2023.04.13-13.21.53:728][500]LogPlayLevel: Creating play world package: /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2
+[2023.04.13-13.21.53:770][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042072s)
+[2023.04.13-13.21.53:770][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelLayout/Levels/Layout_Ver2.Layout_Ver2 to /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2.Layout_Ver2 (0.042113s)
+[2023.04.13-13.21.53:770][500]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-13.21.53:771][500]LogAIModule: Creating AISystem for world Layout_Ver2
+[2023.04.13-13.21.53:771][500]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2023.04.13-13.21.53:789][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.04.13-13.21.53:791][500]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.04.13-13.21.53:792][500]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.13-13.21.53:792][500]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.13-13.21.53:792][500]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.13-13.21.53:792][500]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.13-13.21.53:792][500]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.13-13.21.53:792][500]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.13-13.21.53:792][500]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.13-13.21.53:792][500]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.13-13.21.53:792][500]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.13-13.21.53:792][500]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.13-13.21.53:792][500]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.13-13.21.53:794][500]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.13-13.21.53:814][500]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Sweet Nothings Stereo)
+[2023.04.13-13.21.53:814][500]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.13-13.21.53:814][500]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.13-13.21.53:815][500]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.13-13.21.53:815][500]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.04.13-13.21.53:815][500]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.04.13-13.21.53:817][500]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.04.13-13.21.53:817][500]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.04.13-13.21.53:817][500]LogInit: FAudioDevice initialized.
+[2023.04.13-13.21.53:817][500]LogAudio: Display: Audio Device (ID: 5) registered with world 'Layout_Ver2'.
+[2023.04.13-13.21.53:821][500]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.13-13.21.53:824][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:824][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:824][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:824][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:827][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.21.53:827][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:827][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:827][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:827][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:827][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:827][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:827][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:827][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:827][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:827][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:828][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:828][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:828][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.21.53:828][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:828][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:828][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:828][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.21.53:829][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [StudBattery] - forcing default material instead.
+[2023.04.13-13.21.53:839][500]LogWorld: Bringing World /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2.Layout_Ver2 up for play (max tick rate 0) at 2023.04.13-09.21.53
+[2023.04.13-13.21.53:840][500]LogWorld: Bringing up level for play took: 0.018719
+[2023.04.13-13.21.53:842][500]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.04.13-13.21.53:846][500]LogLevelSequence: Starting new camera cut: 'CineCameraActor_4'
+[2023.04.13-13.21.53:847][500]PIE: Server logged in
+[2023.04.13-13.21.53:849][500]PIE: Play in editor total start time 0.122 seconds.
+[2023.04.13-13.21.58:272][699]LogLevelSequence: Starting new camera cut: 'None'
+[2023.04.13-13.22.00:810][827]LogLevelSequence: Starting new camera cut: 'Cine_Camera_Actor_1'
+[2023.04.13-13.22.05:151][ 44]LogLevelSequence: Blending into new camera cut: 'Cine_Camera_Actor_1' -> 'None' (blend time: 0.000000)
+[2023.04.13-13.22.08:540][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-13.22.14:313][465]LogLevelSequence: Starting new camera cut: 'CineCameraActor_4'
+[2023.04.13-13.22.17:894][645]LogLevelSequence: Starting new camera cut: 'None'
+[2023.04.13-13.22.29:928][233]LogLevelSequence: Blending into new camera cut: 'BP_FirstPersonCharacter_C_0' -> 'Cine_Camera_Actor_3' (blend time: 0.000000)
+[2023.04.13-13.22.31:491][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-13.22.31:491][313]LogWorld: BeginTearingDown for /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2
+[2023.04.13-13.22.31:492][313]LogWorld: UWorld::CleanupWorld for Layout_Ver2, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-13.22.31:493][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-13.22.31:499][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.13-13.22.31:503][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-13.22.31:514][313]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.13-13.22.31:515][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.04.13-13.22.31:517][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.04.13-13.22.31:521][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-13.22.31:527][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.04.13-13.22.31:582][314]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.04.13-13.22.37:070][549]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics/LabExit.LabExit
+[2023.04.13-13.22.45:269][936]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.13-13.22.45:282][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.13-13.22.45:282][936]PIE: New page: PIE session: Layout_Ver2 (Apr 13, 2023, 5:22:45 AM)
+[2023.04.13-13.22.45:282][936]LogPlayLevel: Creating play world package: /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2
+[2023.04.13-13.22.45:325][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043536s)
+[2023.04.13-13.22.45:325][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelLayout/Levels/Layout_Ver2.Layout_Ver2 to /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2.Layout_Ver2 (0.043571s)
+[2023.04.13-13.22.45:325][936]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-13.22.45:326][936]LogAIModule: Creating AISystem for world Layout_Ver2
+[2023.04.13-13.22.45:326][936]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2023.04.13-13.22.45:339][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.04.13-13.22.45:340][936]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.04.13-13.22.45:340][936]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.13-13.22.45:340][936]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.13-13.22.45:340][936]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.13-13.22.45:340][936]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.13-13.22.45:340][936]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.13-13.22.45:340][936]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.13-13.22.45:340][936]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.13-13.22.45:340][936]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.13-13.22.45:341][936]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.13-13.22.45:341][936]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.13-13.22.45:341][936]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.13-13.22.45:343][936]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.13-13.22.45:361][936]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Sweet Nothings Stereo)
+[2023.04.13-13.22.45:361][936]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.13-13.22.45:361][936]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.13-13.22.45:361][936]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.13-13.22.45:362][936]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.04.13-13.22.45:362][936]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.04.13-13.22.45:363][936]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.04.13-13.22.45:363][936]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.04.13-13.22.45:363][936]LogInit: FAudioDevice initialized.
+[2023.04.13-13.22.45:363][936]LogAudio: Display: Audio Device (ID: 6) registered with world 'Layout_Ver2'.
+[2023.04.13-13.22.45:367][936]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.13-13.22.45:370][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:370][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:370][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:370][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:373][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.22.45:373][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:373][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:373][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:374][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:374][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:374][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:374][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:374][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:374][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:374][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:374][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:374][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:374][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.22.45:374][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:374][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:374][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:374][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.22.45:375][936]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [StudBattery] - forcing default material instead.
+[2023.04.13-13.22.45:384][936]LogWorld: Bringing World /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2.Layout_Ver2 up for play (max tick rate 0) at 2023.04.13-09.22.45
+[2023.04.13-13.22.45:385][936]LogWorld: Bringing up level for play took: 0.017247
+[2023.04.13-13.22.45:387][936]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.04.13-13.22.45:391][936]LogLevelSequence: Starting new camera cut: 'CineCameraActor_4'
+[2023.04.13-13.22.45:392][936]PIE: Server logged in
+[2023.04.13-13.22.45:394][936]PIE: Play in editor total start time 0.113 seconds.
+[2023.04.13-13.22.48:121][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-13.22.48:121][ 46]LogWorld: BeginTearingDown for /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2
+[2023.04.13-13.22.48:122][ 46]LogWorld: UWorld::CleanupWorld for Layout_Ver2, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-13.22.48:124][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-13.22.48:127][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.13-13.22.48:128][ 46]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Layout_Ver2, Actor: /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2.Layout_Ver2:PersistentLevel.Cine_Camera_Actor_3
+[2023.04.13-13.22.48:132][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-13.22.48:142][ 46]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.13-13.22.48:142][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.04.13-13.22.48:144][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.04.13-13.22.48:147][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-13.22.48:153][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.04.13-13.22.48:204][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: ================================================
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: Total job queries 554, among them cache hits 68 (12.27%)
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: Tracking 486 distinct input hashes that result in 245 distinct outputs (50.41%)
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: RAM used: 3.87 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.24%
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: Shaders Compiled: 212
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: Jobs assigned 212, completed 212 (100.00%)
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: Average time worker was idle: 88.91 s
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: Time job spent in pending queue: average 1.16 s, longest 5.87 s
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: Job execution time: average 1.05 s, max 2.52 s
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: Job life time (pending + execution): average 2.21 s, max 6.60
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 46.04 s
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: Jobs were issued in 212 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: Average processing rate: 4.60 jobs/sec
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: Total thread time: 161.05 s
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: Total thread preprocess time: 9.32 s
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: Percentage time preprocessing: 5.79%
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: Effective parallelization: 3.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.13-13.23.38:113][419]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.13-13.23.38:114][419]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.00 sec, max 2.00 sec, min 2.00 sec)
+[2023.04.13-13.23.38:114][419]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   52 times, average 1.03 sec, max 2.12 sec, min 0.57 sec)
+[2023.04.13-13.23.38:114][419]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    3 times, average 0.96 sec, max 1.02 sec, min 0.85 sec)
+[2023.04.13-13.23.38:114][419]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2023.04.13-13.23.38:114][419]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 0.93 sec, max 1.03 sec, min 0.75 sec)
+[2023.04.13-13.23.38:114][419]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.13-13.23.38:114][419]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 33.33% of total time (compiled   52 times, average 1.03 sec, max 2.12 sec, min 0.57 sec)
+[2023.04.13-13.23.38:114][419]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.55% of total time (compiled   42 times, average 0.75 sec, max 1.16 sec, min 0.55 sec)
+[2023.04.13-13.23.38:114][419]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.67% of total time (compiled   34 times, average 0.69 sec, max 1.15 sec, min 0.54 sec)
+[2023.04.13-13.23.38:114][419]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.53% of total time (compiled   34 times, average 0.45 sec, max 1.04 sec, min 0.33 sec)
+[2023.04.13-13.23.38:114][419]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 8.22% of total time (compiled   15 times, average 0.88 sec, max 1.14 sec, min 0.54 sec)
+[2023.04.13-13.23.38:114][419]LogShaderCompilers: Display: ================================================
+[2023.04.13-13.23.40:744][522]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/LevelLayout/Levels/Layout_Ver2.Layout_Ver2:PersistentLevel.Layout_Ver2
+[2023.04.13-13.23.40:744][522]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-13.23.42:126][522]LogSlate: Took 0.003873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.13-13.24.09:940][ 63]BlueprintLog: New page: Compile Layout_Ver2
+[2023.04.13-13.24.10:054][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.04.13-13.24.10:063][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.13-13.24.10:156][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.04.13-13.24.10:312][ 63]LogSavePackage: Moving output files for package: /Game/LevelLayout/Levels/Layout_Ver2
+[2023.04.13-13.24.10:315][ 63]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/Layout_Ver2F844000E499B4FDBA493A7A6FCBB971A.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/LevelLayout/Levels/Layout_Ver2.umap'
+[2023.04.13-13.24.10:331][ 63]LogFileHelpers: No new changes to save!
+[2023.04.13-13.24.10:337][ 63]LogFileHelpers: No new changes to save!
+[2023.04.13-13.24.10:337][ 63]LogFileHelpers: Saving map 'Layout_Ver2' took 0.210
+[2023.04.13-13.24.10:344][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 281 ms (total: 2.02 sec)
+[2023.04.13-13.24.10:352][ 63]AssetCheck: New page: Asset Save: Layout_Ver2
+[2023.04.13-13.24.10:352][ 63]LogContentValidation: Display: Validating /Script/Engine.World /Game/LevelLayout/Levels/Layout_Ver2.Layout_Ver2
+[2023.04.13-13.24.14:838][256]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.13-13.24.14:848][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.13-13.24.14:848][256]PIE: New page: PIE session: Layout_Ver2 (Apr 13, 2023, 5:24:14 AM)
+[2023.04.13-13.24.14:848][256]LogPlayLevel: Creating play world package: /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2
+[2023.04.13-13.24.14:885][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035573s)
+[2023.04.13-13.24.14:885][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelLayout/Levels/Layout_Ver2.Layout_Ver2 to /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2.Layout_Ver2 (0.035610s)
+[2023.04.13-13.24.14:885][256]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-13.24.14:885][256]LogAIModule: Creating AISystem for world Layout_Ver2
+[2023.04.13-13.24.14:885][256]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2023.04.13-13.24.14:914][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.04.13-13.24.14:915][256]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.04.13-13.24.14:915][256]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.13-13.24.14:915][256]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.13-13.24.14:915][256]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.13-13.24.14:915][256]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.13-13.24.14:915][256]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.13-13.24.14:915][256]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.13-13.24.14:915][256]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.13-13.24.14:915][256]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.13-13.24.14:915][256]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.13-13.24.14:915][256]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.13-13.24.14:915][256]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.13-13.24.14:917][256]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.13-13.24.14:934][256]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Sweet Nothings Stereo)
+[2023.04.13-13.24.14:934][256]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.13-13.24.14:934][256]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.13-13.24.14:934][256]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.13-13.24.14:936][256]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.04.13-13.24.14:936][256]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.04.13-13.24.14:937][256]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.04.13-13.24.14:937][256]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.04.13-13.24.14:937][256]LogInit: FAudioDevice initialized.
+[2023.04.13-13.24.14:937][256]LogAudio: Display: Audio Device (ID: 7) registered with world 'Layout_Ver2'.
+[2023.04.13-13.24.14:941][256]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.13-13.24.14:944][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:944][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:944][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:944][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:948][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.24.14:948][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:948][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:948][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:948][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:948][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:948][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:948][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:948][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:948][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:948][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:948][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:948][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:948][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [BookShelf] - forcing default material instead.
+[2023.04.13-13.24.14:948][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:948][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:948][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:948][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Alien] - forcing default material instead.
+[2023.04.13-13.24.14:949][256]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [StudBattery] - forcing default material instead.
+[2023.04.13-13.24.14:960][256]LogWorld: Bringing World /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2.Layout_Ver2 up for play (max tick rate 0) at 2023.04.13-09.24.14
+[2023.04.13-13.24.14:961][256]LogWorld: Bringing up level for play took: 0.019632
+[2023.04.13-13.24.14:963][256]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.04.13-13.24.14:967][256]LogLevelSequence: Starting new camera cut: 'CineCameraActor_4'
+[2023.04.13-13.24.14:968][256]PIE: Server logged in
+[2023.04.13-13.24.14:969][256]PIE: Play in editor total start time 0.121 seconds.
+[2023.04.13-13.24.19:446][384]LogLevelSequence: Starting new camera cut: 'None'
+[2023.04.13-13.24.22:252][491]LogLevelSequence: Starting new camera cut: 'Cine_Camera_Actor_3'
+[2023.04.13-13.24.26:596][696]LogLevelSequence: Blending into new camera cut: 'Cine_Camera_Actor_3' -> 'None' (blend time: 0.000000)
+[2023.04.13-13.24.29:929][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-13.24.42:405][416]LogLevelSequence: Starting new camera cut: 'CineCameraActor_4'
+[2023.04.13-13.24.45:980][587]LogLevelSequence: Starting new camera cut: 'None'
+[2023.04.13-13.24.56:096][ 60]LogLevelSequence: Blending into new camera cut: 'BP_FirstPersonCharacter_C_0' -> 'Cine_Camera_Actor_5' (blend time: 0.000000)
+[2023.04.13-13.24.58:498][177]LogLevelSequence: Blending into new camera cut: 'Cine_Camera_Actor_5' -> 'None' (blend time: 0.000000)
+[2023.04.13-13.25.01:192][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-13.25.01:192][296]LogWorld: BeginTearingDown for /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2
+[2023.04.13-13.25.01:193][296]LogWorld: UWorld::CleanupWorld for Layout_Ver2, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-13.25.01:194][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-13.25.01:199][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.13-13.25.01:199][296]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Layout_Ver2, Actor: /Game/LevelLayout/Levels/UEDPIE_0_Layout_Ver2.Layout_Ver2:PersistentLevel.Cine_Camera_Actor_7
+[2023.04.13-13.25.01:205][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-13.25.01:236][296]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.13-13.25.01:236][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.04.13-13.25.01:238][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.04.13-13.25.01:242][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-13.25.01:248][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.04.13-13.25.01:329][297]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.04.13-13.25.34:617][851]LogEditorTransaction: Undo Drag Tangents
+[2023.04.13-13.26.06:308][199]Cmd: TRANSACTION UNDO
+[2023.04.13-13.26.06:308][199]LogEditorTransaction: Undo Move Keys
+[2023.04.13-13.26.50:450][  6]Cmd: TRANSACTION UNDO
+[2023.04.13-13.26.50:450][  6]LogEditorTransaction: Undo Move Key
+[2023.04.13-13.26.52:289][ 66]Cmd: TRANSACTION UNDO
+[2023.04.13-13.26.52:289][ 66]LogEditorTransaction: Undo Select Actors/Components
+[2023.04.13-13.26.53:585][102]Cmd: TRANSACTION UNDO
+[2023.04.13-13.26.53:585][102]LogEditorTransaction: Undo Select Actors/Components
+[2023.04.13-13.26.53:923][109]Cmd: TRANSACTION UNDO
+[2023.04.13-13.26.53:923][109]LogEditorTransaction: Undo Select Actors/Components
+[2023.04.13-13.26.54:270][122]Cmd: TRANSACTION UNDO
+[2023.04.13-13.26.54:270][122]LogEditorTransaction: Undo Select None
+[2023.04.13-13.26.57:645][257]LogSlate: Window 'Sequencer Curves' being destroyed
+[2023.04.13-13.26.57:655][257]LogSlate: Window 'Sequencer Curves' being destroyed
+[2023.04.13-13.28.19:087][789]LogSlate: Window 'Sequencer Curves' being destroyed
+[2023.04.13-13.28.19:096][789]LogSlate: Window 'Sequencer Curves' being destroyed
+[2023.04.13-13.29.10:201][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.04.13-13.29.10:204][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.13-13.29.10:266][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cinematics/LabExit" FILE="../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Cinematics/LabExit.uasset" SILENT=true
+[2023.04.13-13.29.10:270][403]LogSavePackage: Moving output files for package: /Game/Cinematics/LabExit
+[2023.04.13-13.29.10:272][403]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/LabExit50FFB55F44A7EFC815BF6E8AC8FBFE42.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Cinematics/LabExit.uasset'
+[2023.04.13-13.29.10:276][403]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomMaterials/Park/Alien_Grass
+[2023.04.13-13.29.10:276][403]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/Alien_Grass905A92BC44AFAD0A243598B993427DCE.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomMaterials/Park/Alien_Grass.uasset'
+[2023.04.13-13.29.10:280][403]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST
+[2023.04.13-13.29.10:280][403]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_INSTDF40C2C348302D2E55E66A8F01584DDA.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST.uasset'
+[2023.04.13-13.29.10:329][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.04.13-13.29.10:361][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.13-13.29.10:364][403]LogSavePackage: Moving output files for package: /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_MAT
+[2023.04.13-13.29.10:364][403]LogSavePackage: Moving '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Saved/AlienGrass_MAT6B9D73034596372EAA8D26BE9719EC92.tmp' to '../../../../../../Users/elkinse/Documents/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_MAT.uasset'
+[2023.04.13-13.29.10:375][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 2.19 sec)
+[2023.04.13-13.29.10:381][403]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.13-13.29.10:381][403]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_MAT.AlienGrass_MAT
+[2023.04.13-13.29.10:381][403]LogContentValidation: Display: Validating /Script/SubstanceCore.SubstanceInstanceFactory /Game/Rooms_Assets/Materials/RoomMaterials/Park/Alien_Grass.Alien_Grass
+[2023.04.13-13.29.10:381][403]LogContentValidation: Display: Validating /Script/SubstanceCore.SubstanceGraphInstance /Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_INST.AlienGrass_INST
+[2023.04.13-13.29.10:381][403]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Cinematics/LabExit.LabExit
