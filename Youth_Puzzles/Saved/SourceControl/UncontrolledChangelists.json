@@ -14,7 +14,10 @@
 				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Puzzles/Obelisk/Button/MAT_AND_LETTER_A.uasset",
 				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomTextures/Park/MoonLight/MoonLight_WorldGridMaterial_BaseColor.uasset",
 				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomTextures/Park/MoonLight/MoonLight_WorldGridMaterial_Emissive.uasset",
-				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomMaterials/Park/MoonLight_PLACEHOLDER.uasset"
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Rooms_Assets/Materials/RoomMaterials/Park/MoonLight_PLACEHOLDER.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Puzzles/BP_Button.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Puzzles/BP_Piece.uasset",
+				"D:/ETSU/GroupStudio/GitHub/Youth/Youth_Puzzles/Content/Characters/Player/Animations/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]
