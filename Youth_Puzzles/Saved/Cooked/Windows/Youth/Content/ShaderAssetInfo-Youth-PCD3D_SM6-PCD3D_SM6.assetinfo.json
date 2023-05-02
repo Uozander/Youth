@@ -2,12 +2,6 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "7F575111C7AA3E417782758AA698A9E4C092B99F",
-			"Assets": [
-				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "7DAF01793C0456BB8E6FC5DA778BB1A5FCD04D61",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigGizmoMaterial"
@@ -23,6 +17,12 @@
 			"ShaderMapHash": "A362E4C17DC0C79DC7555697EF1B3C0B424D4842",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7F575111C7AA3E417782758AA698A9E4C092B99F",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
 			]
 		},
 		{
@@ -47,7 +47,8 @@
 			"ShaderMapHash": "51A708CD1D07FCE5C44DFC190AEE4F6B2B6872A1",
 			"Assets": [
 				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
-				"/Interchange/Materials/UnlitMaterial"
+				"/Interchange/Materials/UnlitMaterial",
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
 			]
 		},
 		{
@@ -75,6 +76,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DC7317E7B51BC60B7479421A1E4B1A0E6052BD3C",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Characters/Player/Animations/Arm_Material"
+			]
+		},
+		{
 			"ShaderMapHash": "F42E14F3AEFC7FB664415EF1E19BE2DECFF3BB97",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Main"
@@ -99,9 +107,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "027752103F9AA6897FD327BAF1BDE0D95CD6C350",
+			"Assets": [
+				"/Game/LevelLayout/Mats/Plastic"
+			]
+		},
+		{
 			"ShaderMapHash": "C9C49722EC3371BB96887221F6A1F6E6915C7C70",
 			"Assets": [
 				"/Game/MAT_WHITE"
+			]
+		},
+		{
+			"ShaderMapHash": "956622EE43349A66AF5DFDD75048EABA842300A6",
+			"Assets": [
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Park/ParkFillerBackground"
+			]
+		},
+		{
+			"ShaderMapHash": "D04588E8F3F9CA64A098E16A0B608174821F6799",
+			"Assets": [
+				"/Game/MAT_WHITE1"
 			]
 		},
 		{
@@ -117,7 +143,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "815FDEE9CA43D82B2CD42FB2A3CA7A8EFDFD1A1D",
+			"ShaderMapHash": "E59BFCB888692333A5F0CA83FA5FC0B71333645A",
 			"Assets": [
 				"/Game/Sticky/MAT_Red"
 			]
@@ -135,15 +161,33 @@
 			]
 		},
 		{
-			"ShaderMapHash": "395CB3EF97DC2A640700D8FA8BB1D9F2D5A8F5D5",
+			"ShaderMapHash": "0FB7752765A8466123172538FF40C2B78070EC9C",
 			"Assets": [
-				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+				"/Game/LevelLayout/Mats/BulbWire"
 			]
 		},
 		{
-			"ShaderMapHash": "401C43AAF4DA10DC72C25ED28579A637ABD5AF7D",
+			"ShaderMapHash": "C89A99212F6F861CDA2CA915C04493BFFA3D3BE3",
 			"Assets": [
-				"/Engine/MapTemplates/Materials/BasicAsset02"
+				"/Game/LevelLayout/Mats/EmissivePlaceholder"
+			]
+		},
+		{
+			"ShaderMapHash": "ED1A696BCB909A1F8E01451260591D4B399D683A",
+			"Assets": [
+				"/Game/LevelLayout/Mats/Orb"
+			]
+		},
+		{
+			"ShaderMapHash": "311CD2265D27760F1050BDCBA29629B2B6E8F259",
+			"Assets": [
+				"/Game/LevelLayout/Mats/Glass_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "395CB3EF97DC2A640700D8FA8BB1D9F2D5A8F5D5",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -171,30 +215,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5CF243C23634A9D8F5923CF2D3916E7CF86A74DF",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "D596678774B4A0C5A802822503E4CC67866FD407",
-			"Assets": [
-				"/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "38949598446BE43268DA722849243DCEF7AF9347",
-			"Assets": [
-				"/Engine/EngineMaterials/FlattenMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "FD227BB197E02C484FE31C2D12987F0423BE3EE4",
-			"Assets": [
-				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
-			]
-		},
-		{
 			"ShaderMapHash": "1154EF20AB0EB3B17180296643242E3E80311E6E",
 			"Assets": [
 				"/Game/FPWeapon/Materials/BaseMaterial"
@@ -219,6 +239,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "38949598446BE43268DA722849243DCEF7AF9347",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FD227BB197E02C484FE31C2D12987F0423BE3EE4",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
 			"ShaderMapHash": "743B56325109B954EC97CFB078ACF42B04260603",
 			"Assets": [
 				"/Paper2D/DefaultSpriteMaterial"
@@ -237,21 +269,28 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D596678774B4A0C5A802822503E4CC67866FD407",
+			"Assets": [
+				"/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "235BE269851ED7C3B81B661B012FA695EABE96DC",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
 			"ShaderMapHash": "7457487401EF1380C5519588EAEC0B40861EB688",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
 			]
 		},
 		{
-			"ShaderMapHash": "CCCAC217B7135DC1712C5974EBE16F309B2ACE8C",
+			"ShaderMapHash": "5CF243C23634A9D8F5923CF2D3916E7CF86A74DF",
 			"Assets": [
-				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "A8154295A8CCADBD50F6010C9380993A9A26A1DF",
-			"Assets": [
-				"/Interchange/Materials/PhongSurfaceMaterial"
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
 			]
 		},
 		{
@@ -279,15 +318,51 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D0AC8DA000279A1FAD78BD63B55C9866A20ED42C",
-			"Assets": [
-				"/Engine/EngineMaterials/WorldGridMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "30BA37794BE71F09030CE96DDFE9BE78955A03A2",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "C06F836D20EFD8995606569357C88664C5512E81",
+			"Assets": [
+				"/Game/Andrew/Materials/CthuluLEGO",
+				"/Game/Andrew/Materials/BottlecapTable",
+				"/Game/Andrew/Materials/CandyRoll",
+				"/Game/Andrew/Materials/Mirror",
+				"/Game/Andrew/Materials/ShowboxWalls",
+				"/Game/Andrew/Materials/SpongeeBed"
+			]
+		},
+		{
+			"ShaderMapHash": "81A8D578777FFC522119A6405BC609F6DAE52CD2",
+			"Assets": [
+				"/Game/Andrew/Materials/GlowStars",
+				"/Game/Andrew/Materials/MedicineCup"
+			]
+		},
+		{
+			"ShaderMapHash": "43224D0FF01F30842DA02F6F8C459E86B3B9E3EF",
+			"Assets": [
+				"/Game/Andrew/Materials/Letters/L/MAT_LETTER_L",
+				"/Game/Andrew/Materials/Letters/O/MAT_LETTER_O",
+				"/Game/Andrew/Materials/Letters/Z/MAT_LETTER_Z",
+				"/Game/Andrew/Materials/Letters/R/MAT_LETTER_R",
+				"/Game/Puzzles/Obelisk/Obelisk_Mat",
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Drone",
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Park/Streetlight"
+			]
+		},
+		{
+			"ShaderMapHash": "A8154295A8CCADBD50F6010C9380993A9A26A1DF",
+			"Assets": [
+				"/Interchange/Materials/PhongSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D0AC8DA000279A1FAD78BD63B55C9866A20ED42C",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
 			]
 		},
 		{
@@ -303,6 +378,106 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CCCAC217B7135DC1712C5974EBE16F309B2ACE8C",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A9BBCE8AF94CEB03DC598638F5798BB79645D41C",
+			"Assets": [
+				"/Game/UI/BoltSmall_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "AF43EABB7F044BF63A7FC80D55A485EE882A7293",
+			"Assets": [
+				"/Game/Andrew/Materials/Box_Box"
+			]
+		},
+		{
+			"ShaderMapHash": "BC9195739F7F5473CFFE7700EA8EBE0D9C697B78",
+			"Assets": [
+				"/Game/Andrew/Materials/ChewedGum",
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/TestTubes",
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Park/Bench",
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Computers",
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Chair",
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Flask",
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Erlenmeyer",
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Park/Trashcan",
+				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/FallDoll",
+				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/Quad",
+				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/Teddy"
+			]
+		},
+		{
+			"ShaderMapHash": "62CE65B9EB43636C0BC2E7916C45118C57C6F674",
+			"Assets": [
+				"/Game/Andrew/Materials/ChocolateBox"
+			]
+		},
+		{
+			"ShaderMapHash": "43190E16B1B40182D605213A4CC92D33B3966386",
+			"Assets": [
+				"/Game/Andrew/Materials/Potatoe"
+			]
+		},
+		{
+			"ShaderMapHash": "3E6EA91922673081390C08D150045DC72185C1C6",
+			"Assets": [
+				"/Game/Andrew/Materials/RedBall"
+			]
+		},
+		{
+			"ShaderMapHash": "EAB30EB0C3383C23D4CDA37463C2766F4BC5B06E",
+			"Assets": [
+				"/Game/Andrew/Materials/Spoon"
+			]
+		},
+		{
+			"ShaderMapHash": "658E9884E8A713F830BF952AA30E2D132D858269",
+			"Assets": [
+				"/Game/Andrew/Materials/ToiletPaper"
+			]
+		},
+		{
+			"ShaderMapHash": "10CE647AA6FDD03BC646EC58934854D77E6B9F92",
+			"Assets": [
+				"/Game/Rooms_Assets/Materials/MAT_Carpet"
+			]
+		},
+		{
+			"ShaderMapHash": "605D4E7004789E32966085CDBA80B88811E1F2CB",
+			"Assets": [
+				"/Game/Splat/MAT_Goo"
+			]
+		},
+		{
+			"ShaderMapHash": "E121501DD9C8609CC8EC4AA09935A6280F5911E1",
+			"Assets": [
+				"/Game/Splat/MAT_Goo_NoSquish1"
+			]
+		},
+		{
+			"ShaderMapHash": "9D55D8B65838E1F5B697A0946B9A24195AD3BB4B",
+			"Assets": [
+				"/Game/EnergizerDoors_Puzzle/Bullet"
+			]
+		},
+		{
+			"ShaderMapHash": "86AE783493CAD5729C125920AD3C95320A421CFE",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
+			]
+		},
+		{
+			"ShaderMapHash": "F484A67C8B6646D509273FC3B0FDAEFFCC1C0670",
+			"Assets": [
+				"/Game/Rooms_Assets/Materials/GregDecal"
+			]
+		},
+		{
 			"ShaderMapHash": "80F1D25E4E140B9E0A96F601C68C23BEE4D6EE4C",
 			"Assets": [
 				"/Game/Puzzles/Battery_Chase/MAT_BUG_PH"
@@ -315,90 +490,54 @@
 			]
 		},
 		{
-			"ShaderMapHash": "86AE783493CAD5729C125920AD3C95320A421CFE",
+			"ShaderMapHash": "A6B07558609848CB430FD48001CD6E73925D5BCF",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
+				"/Game/LevelLayout/Mats/Rock"
 			]
 		},
 		{
-			"ShaderMapHash": "EF29A7707391638F1CC135499D649F151BC122D5",
+			"ShaderMapHash": "667CF5F82A0D0C70C65FAB5CF57F236B48D49CFD",
 			"Assets": [
-				"/Game/Rooms_Assets/Materials/SlimTextures/MAT_Robot_Bod"
+				"/Game/LevelLayout/Mats/ParkPath"
 			]
 		},
 		{
-			"ShaderMapHash": "605D4E7004789E32966085CDBA80B88811E1F2CB",
+			"ShaderMapHash": "EFD7C231B6846E2876F5F57651DC5D09D85F72CF",
 			"Assets": [
-				"/Game/Splat/MAT_Goo"
+				"/Game/LevelLayout/Mats/AltTree"
 			]
 		},
 		{
-			"ShaderMapHash": "9D55D8B65838E1F5B697A0946B9A24195AD3BB4B",
+			"ShaderMapHash": "8005E5298151797A3BB352FA803A96B5814D293C",
 			"Assets": [
-				"/Game/EnergizerDoors_Puzzle/Bullet"
+				"/Game/LevelLayout/Mats/LabFlooring"
 			]
 		},
 		{
-			"ShaderMapHash": "A5A6B755B949AFCBA0385A2FF9A6B428C1F00E74",
+			"ShaderMapHash": "EF1F2491F2153D4ADE88248F2F1DBB90DB2D1052",
 			"Assets": [
-				"/Game/Splat/MAT_Goo1"
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Battery",
+				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/MimickBox"
 			]
 		},
 		{
-			"ShaderMapHash": "E47191484C961CC9503EF93862E62B3E07EF7AAC",
+			"ShaderMapHash": "0557D8BCA0777FD49F163F58ED6E65C8A01E7655",
 			"Assets": [
-				"/Game/Splat/MAT_Goo_Trans"
-			]
-		},
-		{
-			"ShaderMapHash": "2F6FC29E3AD049B63518039940CF5A790742313B",
-			"Assets": [
-				"/Game/UI/Noise_Radial_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "F2E3435E7AA778E0F2A9BF168DB63F3AD5B3B12F",
-			"Assets": [
-				"/Game/Rooms_Assets/Materials/Slim_Bod"
-			]
-		},
-		{
-			"ShaderMapHash": "2F23DF81F35336B25597A0DE7862B109185F8208",
-			"Assets": [
-				"/Substance/Templates/parent_materials/Substance_Standard_Template"
-			]
-		},
-		{
-			"ShaderMapHash": "3DF5A8D2318C5B3E9FA254DCC1691C0FA5CAF730",
-			"Assets": [
-				"/Game/Splat/Splat_2",
-				"/Game/Splat/Splat_3",
-				"/Game/Splat/Splat_1",
-				"/Game/Splat/Splat_4"
-			]
-		},
-		{
-			"ShaderMapHash": "BC9195739F7F5473CFFE7700EA8EBE0D9C697B78",
-			"Assets": [
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Erlenmeyer",
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Chair",
 				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Table",
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/TestTubes",
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Park/Bench",
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Park/Trashcan",
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Flask"
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Microscope",
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Pencil"
 			]
 		},
 		{
-			"ShaderMapHash": "5E7E5864A50CB5A09186723B20CF22AC2441624B",
+			"ShaderMapHash": "43E52ED16E64F14488BE052B40B1793DC4FC6D35",
 			"Assets": [
-				"/Game/Rooms_Assets/Materials/Slim_Bot"
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Park/Bug"
 			]
 		},
 		{
-			"ShaderMapHash": "7D1FE371C8E9EF979DA9A54C1DA0C5661B5D1F5F",
+			"ShaderMapHash": "96EE22A94B2415A6974AC321C3E3DD847BE0BADD",
 			"Assets": [
-				"/Game/Rooms_Assets/Materials/Slim_Eyes"
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Park/MoonLight_PLACEHOLDER"
 			]
 		},
 		{
@@ -414,13 +553,126 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A3C6AB33B8483D8541BC0346860DF60B4425403D",
+			"ShaderMapHash": "D8EC5E7AB5A9E2BC12A35823EF9ED2544A80B0C8",
 			"Assets": [
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Computers",
-				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/FallDoll",
-				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/Quad",
-				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/Teddy",
-				"/Game/Andrew/Materials/ChewedGum"
+				"/Game/LevelLayout/Mats/Branch"
+			]
+		},
+		{
+			"ShaderMapHash": "E47191484C961CC9503EF93862E62B3E07EF7AAC",
+			"Assets": [
+				"/Game/Splat/MAT_Goo_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "5AF59CB38CEA008C62FA6C3F7F6801F1E1F6E8BB",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "E1E99CFE470C73B73A8F34F80EAA3348935A2918",
+			"Assets": [
+				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/Barn",
+				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/Shelf"
+			]
+		},
+		{
+			"ShaderMapHash": "7EEA15C2F09C8785559A22FF5D85E6A8EDCAF667",
+			"Assets": [
+				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/Pack"
+			]
+		},
+		{
+			"ShaderMapHash": "7669B3B421F946FAB17CF3E6422F213BAFAE4F2C",
+			"Assets": [
+				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/Sliders",
+				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/Blocks"
+			]
+		},
+		{
+			"ShaderMapHash": "070CD0DD32E02B7BBDCB38C86633540A5120DB68",
+			"Assets": [
+				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/Soldier"
+			]
+		},
+		{
+			"ShaderMapHash": "7D1FE371C8E9EF979DA9A54C1DA0C5661B5D1F5F",
+			"Assets": [
+				"/Game/Rooms_Assets/Materials/Slim_Eyes"
+			]
+		},
+		{
+			"ShaderMapHash": "EF29A7707391638F1CC135499D649F151BC122D5",
+			"Assets": [
+				"/Game/Rooms_Assets/Materials/SlimTextures/MAT_Robot_Bod"
+			]
+		},
+		{
+			"ShaderMapHash": "68DF8BFB6A2C82BDA4153895FB43E7FA7CC77EC1",
+			"Assets": [
+				"/Game/Splat/MAT_Goo_NoSquish"
+			]
+		},
+		{
+			"ShaderMapHash": "11BE80999AC21DBB9BEB9F7C3EF5863CBE7D5907",
+			"Assets": [
+				"/Game/Splat/MAT_Goo_Splat"
+			]
+		},
+		{
+			"ShaderMapHash": "7E93762A18F07E56E5D143B30AF263828E52737F",
+			"Assets": [
+				"/Game/Splat/MAT_Hand_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "A5A6B755B949AFCBA0385A2FF9A6B428C1F00E74",
+			"Assets": [
+				"/Game/Splat/MAT_Goo1"
+			]
+		},
+		{
+			"ShaderMapHash": "E0439550CAF0661DA802F5EE707B7D7D69397807",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "274D3B9E9F978E085D604E97F1F6267D3A88B4D5",
+			"Assets": [
+				"/Game/Puzzles/Obelisk/Button/LETTER_A/MAT_AND_LETTER_A"
+			]
+		},
+		{
+			"ShaderMapHash": "2F6FC29E3AD049B63518039940CF5A790742313B",
+			"Assets": [
+				"/Game/UI/Noise_Radial_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "94EE06358BE603B0D168E1EDD2B1B903DF03A39E",
+			"Assets": [
+				"/Game/Characters/Player/Mesh/SpaceArms_Mat",
+				"/Game/Characters/Player/Mesh/Raygun_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "9716696BE4486DA074500F96E6C8098051791D75",
+			"Assets": [
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Park/Gazebo"
+			]
+		},
+		{
+			"ShaderMapHash": "0FFDDF21393255E52C79AFF0D2699D83B74D825C",
+			"Assets": [
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Book"
+			]
+		},
+		{
+			"ShaderMapHash": "6E161F30672E696AD49FA5BCA34CEE86AF77B812",
+			"Assets": [
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Bookshelf"
 			]
 		},
 		{
@@ -430,7 +682,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "94E58CAEE5ACB4AA8ED5B4F22857BEC35E31171D",
+			"ShaderMapHash": "4668276CB25EB3AD95FE7555612820D44C762E95",
 			"Assets": [
 				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/RobotArm"
 			]
@@ -438,7 +690,7 @@
 		{
 			"ShaderMapHash": "9EC0FF004D64C6113477DF2573369571A8D21318",
 			"Assets": [
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Park/Gazebo"
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/RobotBody"
 			]
 		},
 		{
@@ -454,9 +706,75 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9CF448DC0CFAFCFD26ACC37EB519419754B2E965",
+			"Assets": [
+				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/MimickSnake"
+			]
+		},
+		{
+			"ShaderMapHash": "3DF5A8D2318C5B3E9FA254DCC1691C0FA5CAF730",
+			"Assets": [
+				"/Game/Splat/Splat_1",
+				"/Game/Splat/Splat_2",
+				"/Game/Splat/Splat_3",
+				"/Game/Splat/Splat_4"
+			]
+		},
+		{
+			"ShaderMapHash": "D8C1A356675EE180A376CE60FBD477188E8428D0",
+			"Assets": [
+				"/Game/Characters/Red/NewRedEye",
+				"/Game/Characters/Red/Red_Body_Mat",
+				"/Game/Characters/Red/Red_Mouth_Texture"
+			]
+		},
+		{
+			"ShaderMapHash": "EF28622EA25BF1A9CC63B3853A5721B6BB4C839D",
+			"Assets": [
+				"/Game/Characters/Red/Red_Blue_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "70B49152BB854B42822E79C99D2981DE2D5C2935",
+			"Assets": [
+				"/Game/Characters/Red/Red_Metal_Mat",
+				"/Game/Characters/Red/Red_White_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "5547E8574EE1FC0FB91629CC1DF67FBBAF64B6D9",
+			"Assets": [
+				"/Game/Characters/Red/Red_Sclera_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "F2E3435E7AA778E0F2A9BF168DB63F3AD5B3B12F",
+			"Assets": [
+				"/Game/Rooms_Assets/Materials/Slim_Bod"
+			]
+		},
+		{
+			"ShaderMapHash": "5E7E5864A50CB5A09186723B20CF22AC2441624B",
+			"Assets": [
+				"/Game/Rooms_Assets/Materials/Slim_Bot"
+			]
+		},
+		{
+			"ShaderMapHash": "7D415A1D6F88C8F243E17E7C14EC846726A3D0F9",
+			"Assets": [
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Platform"
+			]
+		},
+		{
 			"ShaderMapHash": "192C29AF400BDEB0FADFC7696029976A28C71877",
 			"Assets": [
 				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2F23DF81F35336B25597A0DE7862B109185F8208",
+			"Assets": [
+				"/Substance/Templates/parent_materials/Substance_Standard_Template"
 			]
 		},
 		{
@@ -469,6 +787,24 @@
 			"ShaderMapHash": "3886C6CC666B5EFCCBB57C9DE29308ADFAD6D1C2",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "11C07063E8B0290A4DFDFB23378E1D8F6145021F",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "052CB493B65F43308405061F7A34FFF97036D307",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "DB39FC1D3C182B3B823AD7137FFE1DD18CF8E1A7",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
 			]
 		},
 		{
@@ -496,16 +832,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DFC8690BD22D0462FA58A24CA02D7F02414A06CB",
+			"ShaderMapHash": "65E4C7B602AD5150DDA2F330B00600145D5EAD0E",
 			"Assets": [
-				"/Substance/Templates/parent_materials/Substance_TriPlanar_Template"
+				"/Game/UI/Muzzle_FLash"
 			]
 		},
 		{
-			"ShaderMapHash": "74FA829E7704CA137F22E6A15C2EFEECFD263BE3",
+			"ShaderMapHash": "39C11C618F494013D9DF2511ED77BACA5B853E9A",
 			"Assets": [
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_MAT",
-				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/DuploBlocks_MAT"
+				"/Interchange/Materials/SheenMaterial"
 			]
 		},
 		{
@@ -515,9 +850,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "81000E655F7B5F48135DD9F784C4C677F2DF749D",
+			"ShaderMapHash": "DFC8690BD22D0462FA58A24CA02D7F02414A06CB",
 			"Assets": [
-				"/Interchange/Materials/ClearCoatMaterial"
+				"/Substance/Templates/parent_materials/Substance_TriPlanar_Template"
+			]
+		},
+		{
+			"ShaderMapHash": "7F72A19F4D0A3A825B9F7A66FA0D032FCBF61786",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "7D3CD42DE994786990043782A0F002056E4B9CE6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
 			]
 		},
 		{
@@ -539,39 +886,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "39C11C618F494013D9DF2511ED77BACA5B853E9A",
+			"ShaderMapHash": "81000E655F7B5F48135DD9F784C4C677F2DF749D",
 			"Assets": [
-				"/Interchange/Materials/SheenMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "C0C3F7298C909DEF0B70F0636CF878065718A736",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
-			]
-		},
-		{
-			"ShaderMapHash": "06FB2E57328006F81EC08F86857F9FFF365A3DAE",
-			"Assets": [
-				"/Engine/EditorMaterials/GeometryCollection/SelectedGeometryMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "C3EE3A1FD994E47AC43C0AF0D1C4165F0138A19B",
-			"Assets": [
-				"/Interchange/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat"
-			]
-		},
-		{
-			"ShaderMapHash": "9B270764B6D64F20B3284E7614EBD91B3CA36B17",
-			"Assets": [
-				"/Interchange/gltf/M_Opaque"
-			]
-		},
-		{
-			"ShaderMapHash": "7F7C3502594566EE3A87BD15BE2170EEEF150F59",
-			"Assets": [
-				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Unlit_TS"
+				"/Interchange/Materials/ClearCoatMaterial"
 			]
 		},
 		{
@@ -587,9 +904,40 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C0C3F7298C909DEF0B70F0636CF878065718A736",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "06FB2E57328006F81EC08F86857F9FFF365A3DAE",
+			"Assets": [
+				"/Engine/EditorMaterials/GeometryCollection/SelectedGeometryMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "74FA829E7704CA137F22E6A15C2EFEECFD263BE3",
+			"Assets": [
+				"/Game/Rooms_Assets/Materials/RoomMaterials/Park/AlienGrass_MAT",
+				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/DuploBlocks_MAT"
+			]
+		},
+		{
 			"ShaderMapHash": "5E6138428919D151392CB71FCCF335F96C3A38B3",
 			"Assets": [
 				"/Interchange/gltf/M_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "9B270764B6D64F20B3284E7614EBD91B3CA36B17",
+			"Assets": [
+				"/Interchange/gltf/M_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "7F7C3502594566EE3A87BD15BE2170EEEF150F59",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Unlit_TS"
 			]
 		},
 		{
@@ -599,27 +947,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C44AE2FBC62B1A449AEAD6135E74DB36C14518A1",
+			"ShaderMapHash": "41A06380C3998BDA0A34096999795C0E447C622C",
 			"Assets": [
-				"/Interchange/gltf/MaterialInstances_MR/MI_Transmission_TS"
+				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS"
 			]
 		},
 		{
-			"ShaderMapHash": "069364F8121D1C003DCA3CDE55383B83025F323E",
+			"ShaderMapHash": "E16C2E372C527FA196030426EE88A654628BA607",
 			"Assets": [
-				"/Interchange/gltf/MaterialInstances_SG/MI_Transmission_TS"
-			]
-		},
-		{
-			"ShaderMapHash": "05ADFC39DCC27BEE1D1C37AAD2B8DE48D0C2E4D1",
-			"Assets": [
-				"/Interchange/gltf/MaterialInstances_SG/MI_Transmission"
-			]
-		},
-		{
-			"ShaderMapHash": "B2FAB49343CAE1620CBA6CAD9961D15AA532969A",
-			"Assets": [
-				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Sheen_TS"
+				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat"
 			]
 		},
 		{
@@ -635,21 +971,27 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A8C85100BC50E315909620390563C5D78A961A27",
+			"ShaderMapHash": "B2FAB49343CAE1620CBA6CAD9961D15AA532969A",
 			"Assets": [
-				"/Interchange/gltf/MaterialInstances_MR/MI_Translucent_TS"
+				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Sheen_TS"
 			]
 		},
 		{
-			"ShaderMapHash": "32123420883382D951D2B4CA7B504D7378ADB81B",
+			"ShaderMapHash": "069364F8121D1C003DCA3CDE55383B83025F323E",
 			"Assets": [
-				"/Interchange/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat_TS"
+				"/Interchange/gltf/MaterialInstances_SG/MI_Transmission_TS"
 			]
 		},
 		{
-			"ShaderMapHash": "EC91F2DC67B0AF6000E83181F8389F9E4E5001D8",
+			"ShaderMapHash": "05ADFC39DCC27BEE1D1C37AAD2B8DE48D0C2E4D1",
 			"Assets": [
-				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque"
+				"/Interchange/gltf/MaterialInstances_SG/MI_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "C44AE2FBC62B1A449AEAD6135E74DB36C14518A1",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Transmission_TS"
 			]
 		},
 		{
@@ -677,21 +1019,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "4948D047A8D597875862961188870F47ECFB1341",
+			"ShaderMapHash": "A8C85100BC50E315909620390563C5D78A961A27",
 			"Assets": [
-				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_TS"
+				"/Interchange/gltf/MaterialInstances_MR/MI_Translucent_TS"
 			]
 		},
 		{
-			"ShaderMapHash": "41A06380C3998BDA0A34096999795C0E447C622C",
+			"ShaderMapHash": "32123420883382D951D2B4CA7B504D7378ADB81B",
 			"Assets": [
-				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS"
+				"/Interchange/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat_TS"
 			]
 		},
 		{
-			"ShaderMapHash": "E16C2E372C527FA196030426EE88A654628BA607",
+			"ShaderMapHash": "C3EE3A1FD994E47AC43C0AF0D1C4165F0138A19B",
 			"Assets": [
-				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat"
+				"/Interchange/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat"
 			]
 		},
 		{
@@ -713,280 +1055,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "235BE269851ED7C3B81B661B012FA695EABE96DC",
+			"ShaderMapHash": "EC91F2DC67B0AF6000E83181F8389F9E4E5001D8",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough"
+				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque"
 			]
 		},
 		{
-			"ShaderMapHash": "7F72A19F4D0A3A825B9F7A66FA0D032FCBF61786",
+			"ShaderMapHash": "4948D047A8D597875862961188870F47ECFB1341",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
-			]
-		},
-		{
-			"ShaderMapHash": "052CB493B65F43308405061F7A34FFF97036D307",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
-			]
-		},
-		{
-			"ShaderMapHash": "7D3CD42DE994786990043782A0F002056E4B9CE6",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
-			]
-		},
-		{
-			"ShaderMapHash": "DB39FC1D3C182B3B823AD7137FFE1DD18CF8E1A7",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
-			]
-		},
-		{
-			"ShaderMapHash": "D04588E8F3F9CA64A098E16A0B608174821F6799",
-			"Assets": [
-				"/Game/MAT_WHITE1"
-			]
-		},
-		{
-			"ShaderMapHash": "956622EE43349A66AF5DFDD75048EABA842300A6",
-			"Assets": [
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Park/ParkFillerBackground"
-			]
-		},
-		{
-			"ShaderMapHash": "0D8C3111D75C5AF86B2F7859358D00738EB7AA46",
-			"Assets": [
-				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/Pack"
-			]
-		},
-		{
-			"ShaderMapHash": "0FB7752765A8466123172538FF40C2B78070EC9C",
-			"Assets": [
-				"/Game/LevelLayout/Mats/BulbWire"
-			]
-		},
-		{
-			"ShaderMapHash": "11C07063E8B0290A4DFDFB23378E1D8F6145021F",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
-			]
-		},
-		{
-			"ShaderMapHash": "DC7317E7B51BC60B7479421A1E4B1A0E6052BD3C",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/Characters/Player/Animations/Arm_Material"
-			]
-		},
-		{
-			"ShaderMapHash": "027752103F9AA6897FD327BAF1BDE0D95CD6C350",
-			"Assets": [
-				"/Game/LevelLayout/Mats/Plastic"
-			]
-		},
-		{
-			"ShaderMapHash": "F5D64EA8800F249A0BE94D93BB78E3B34E5A33C4",
-			"Assets": [
-				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/MimickSnake"
-			]
-		},
-		{
-			"ShaderMapHash": "92D99E4237766A6DE12917D7FECAED65C1B41953",
-			"Assets": [
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Microscope",
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Pencil"
-			]
-		},
-		{
-			"ShaderMapHash": "C89A99212F6F861CDA2CA915C04493BFFA3D3BE3",
-			"Assets": [
-				"/Game/LevelLayout/Mats/EmissivePlaceholder"
-			]
-		},
-		{
-			"ShaderMapHash": "EF28622EA25BF1A9CC63B3853A5721B6BB4C839D",
-			"Assets": [
-				"/Game/Characters/Red/Red_Blue_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "43224D0FF01F30842DA02F6F8C459E86B3B9E3EF",
-			"Assets": [
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/RobotBody",
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Drone",
-				"/Game/Puzzles/Obelisk/Obelisk_Mat",
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Park/Streetlight"
-			]
-		},
-		{
-			"ShaderMapHash": "1202ADD0B2A704641857239E1BD194D6C89697F3",
-			"Assets": [
-				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/MimickBox",
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Battery"
-			]
-		},
-		{
-			"ShaderMapHash": "720AFA082629C175243A71CF153001BC836060EA",
-			"Assets": [
-				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/Shelf",
-				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/Barn"
-			]
-		},
-		{
-			"ShaderMapHash": "F42F6D6F73F601677FFAD7570DE5ADF0AFAE6C5B",
-			"Assets": [
-				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/Blocks",
-				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/Sliders"
-			]
-		},
-		{
-			"ShaderMapHash": "65E4C7B602AD5150DDA2F330B00600145D5EAD0E",
-			"Assets": [
-				"/Game/UI/Muzzle_FLash"
-			]
-		},
-		{
-			"ShaderMapHash": "D8C1A356675EE180A376CE60FBD477188E8428D0",
-			"Assets": [
-				"/Game/Characters/Red/Red_Body_Mat",
-				"/Game/Characters/Red/Red_Mouth_Texture"
-			]
-		},
-		{
-			"ShaderMapHash": "70B49152BB854B42822E79C99D2981DE2D5C2935",
-			"Assets": [
-				"/Game/Characters/Red/Red_Metal_Mat",
-				"/Game/Characters/Red/Red_White_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "7D415A1D6F88C8F243E17E7C14EC846726A3D0F9",
-			"Assets": [
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Platform"
-			]
-		},
-		{
-			"ShaderMapHash": "3E6EA91922673081390C08D150045DC72185C1C6",
-			"Assets": [
-				"/Game/Andrew/Materials/BottlecapTable",
-				"/Game/Andrew/Materials/CandyRoll",
-				"/Game/Andrew/Materials/ShowboxWalls",
-				"/Game/Andrew/Materials/CthuluLEGO",
-				"/Game/Andrew/Materials/SpongeeBed",
-				"/Game/Andrew/Materials/RedBall",
-				"/Game/Andrew/Materials/ToiletPaper",
-				"/Game/Andrew/Materials/Mirror"
-			]
-		},
-		{
-			"ShaderMapHash": "D16FE8F892ECC691A247002FA52ABE2A1A252890",
-			"Assets": [
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Book"
-			]
-		},
-		{
-			"ShaderMapHash": "DBFA0B035392372DF06ED57EE377610B7A2C2131",
-			"Assets": [
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Lab/Bookshelf"
-			]
-		},
-		{
-			"ShaderMapHash": "5547E8574EE1FC0FB91629CC1DF67FBBAF64B6D9",
-			"Assets": [
-				"/Game/Characters/Red/Red_Sclera_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "311CD2265D27760F1050BDCBA29629B2B6E8F259",
-			"Assets": [
-				"/Game/LevelLayout/Mats/Glass_MASTER"
-			]
-		},
-		{
-			"ShaderMapHash": "7E93762A18F07E56E5D143B30AF263828E52737F",
-			"Assets": [
-				"/Game/Splat/MAT_Hand_Trans"
-			]
-		},
-		{
-			"ShaderMapHash": "37334A7B6BAC272BBAA12253DAB9A9892A597A34",
-			"Assets": [
-				"/Game/Andrew/Materials/Potatoe"
-			]
-		},
-		{
-			"ShaderMapHash": "43E52ED16E64F14488BE052B40B1793DC4FC6D35",
-			"Assets": [
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Park/Bug"
-			]
-		},
-		{
-			"ShaderMapHash": "9F2CD6DD54DF36C3BAA43A407E9AE68894B244A0",
-			"Assets": [
-				"/Game/Andrew/Materials/ChocolateBox"
-			]
-		},
-		{
-			"ShaderMapHash": "EDE4E9E44806862DB23D61D022C155C50B5D69E2",
-			"Assets": [
-				"/Game/Splat/MAT_Goo_Splat"
-			]
-		},
-		{
-			"ShaderMapHash": "09D7C1EDC24064760F03007C92C5E6EC8B0D0632",
-			"Assets": [
-				"/Game/Andrew/Materials/GlowStars",
-				"/Game/Andrew/Materials/MedicineCup"
-			]
-		},
-		{
-			"ShaderMapHash": "9FA5D58494474030B3A3216D369BA4D5583B485A",
-			"Assets": [
-				"/Game/Andrew/Materials/Box_Box"
-			]
-		},
-		{
-			"ShaderMapHash": "94EE06358BE603B0D168E1EDD2B1B903DF03A39E",
-			"Assets": [
-				"/Game/Characters/Player/Mesh/Raygun_Mat",
-				"/Game/Characters/Player/Mesh/SpaceArms_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "274D3B9E9F978E085D604E97F1F6267D3A88B4D5",
-			"Assets": [
-				"/Game/Puzzles/Obelisk/Button/LETTER_A/MAT_AND_LETTER_A"
-			]
-		},
-		{
-			"ShaderMapHash": "68DF8BFB6A2C82BDA4153895FB43E7FA7CC77EC1",
-			"Assets": [
-				"/Game/Splat/MAT_Goo_NoSquish"
-			]
-		},
-		{
-			"ShaderMapHash": "2E20F21DB6B08D415E50DB1F90AF3CB748092FA1",
-			"Assets": [
-				"/Game/Andrew/Materials/Spoon"
-			]
-		},
-		{
-			"ShaderMapHash": "E121501DD9C8609CC8EC4AA09935A6280F5911E1",
-			"Assets": [
-				"/Game/Splat/MAT_Goo_NoSquish1"
-			]
-		},
-		{
-			"ShaderMapHash": "3420C01E07D693B730139303C21078D8B28A581C",
-			"Assets": [
-				"/Game/Rooms_Assets/Materials/RoomMaterials/ToyBox/Soldier"
-			]
-		},
-		{
-			"ShaderMapHash": "CC34FE27EBC1C1DB6B1B578C1B2002B162AB6429",
-			"Assets": [
-				"/Game/Rooms_Assets/Materials/RoomMaterials/Park/MoonLight_PLACEHOLDER"
+				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_TS"
 			]
 		}
 	]
